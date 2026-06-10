@@ -16,6 +16,10 @@ backstory: Revealed in Mecca, named after "The Sun" (Ash-Shams — v1). A surah 
 narrative: (1) Oaths by the sun, the moon, the day, the night, the sky, the earth, the soul — each paired as complementary signs (v1-10); (2) The soul's purification is its success, its corruption is its loss (v8-10); (3) Thamud rejected their prophet Salih — the most wretched among them hamstrung the she-camel (v11-14).
 subject: The Sun and its complementary oaths, the purification of the soul, the story of Thamud (Salih and the she-camel), the destruction that followed.
 motivation: To build a chain of oaths from the cosmic (sun, moon, sky) to the personal (the soul), culminating in the lesson of Thamud — that a single individual can bring destruction on an entire people.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 91. Ash-Shams — *The Sun*
@@ -39,3 +43,4 @@ motivation: To build a chain of oaths from the cosmic (sun, moon, sky) to the pe
 **13.** And the messenger of Allah said: It is the she-camel of Allah, so let her drink!
 **14.** But they denied him, and they hamstrung her, so Allah doomed them for their sin and rased (their dwellings).
 **15.** He dreadeth not the sequel (of events).
+

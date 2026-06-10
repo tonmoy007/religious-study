@@ -19,6 +19,10 @@ backstory: Revealed in Medina after the Battle of the Trench (5 AH), when the "C
 narrative: (1) The Prophet's relationship with his adopted son Zayd and the marriage to Zaynab (v1-5); (2) The covenant with the prophets (v6-8); (3) The Battle of the Trench — the siege, the hypocrites exposed (v9-27); (4) The wives of the Prophet — their conduct and status (v28-55); (5) The Prophet's household and the Hijab ruling (v56-62); (6) The Day of Judgment (v63-73).
 subject: The Battle of the Trench (Ahzaab), the Prophet's family life, the hijab (veiling), the conduct of the Prophet's wives, the hypocrites of Medina.
 motivation: To address the social and legal implications of the Prophet's role as a husband and leader, to regulate the conduct of his household, and to recount the divine deliverance at the Battle of the Trench.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 33. Al-Ahzaab — *The Clans*
@@ -100,3 +104,4 @@ motivation: To address the social and legal implications of the Prophet's role a
 **71.** He will adjust your works for you and will forgive you your sins. Whosoever obeyeth Allah and His messenger, he verily hath gained a signal victory.
 **72.** Lo! We offered the trust unto the heavens and the earth and the hills, but they shrank from bearing it and were afraid of it. And man assumed it. Lo! he hath proved a tyrant and a fool.
 **73.** So Allah punisheth hypocritical men and hypocritical women, and idolatrous men and idolatrous women. But Allah pardoneth believing men and believing women, and Allah is ever Forgiving, Merciful.
+

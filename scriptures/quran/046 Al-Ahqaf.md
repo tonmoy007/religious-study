@@ -15,6 +15,10 @@ backstory: Revealed in Mecca. Named after "The Dunes" (Al-Ahqaf — v21), the sa
 narrative: (1) The Quran as revelation and the disbelievers' dismissal (v1-14); (2) The duty of children to parents — the 30-month gestation (v15-20); (3) Hud and the people of 'Ad — their punishment by the Sandstorm (v21-28); (4) The jinn who listened to the Quran and believed (v29-35).
 subject: The people of 'Ad and the Ahqaf (sand dunes), the duty to parents (especially mothers), the jinn's belief in the Quran, Hud's mission.
 motivation: To warn by the example of 'Ad — the mighty nation destroyed by a wind — and to recount the remarkable story of the jinn hearing and accepting the Quran.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 46. Al-Ahqaf — *The Dunes*
@@ -58,3 +62,4 @@ motivation: To warn by the example of 'Ad — the mighty nation destroyed by a w
 **33.** Have they not seen that Allah, Who created the heavens and the earth and was not wearied by their creation, is Able to give life to the dead? Aye, He verily is Able to do all things.
 **34.** And on the day when those who disbelieve are exposed to the Fire (they will be asked): Is not this real? They will say: Yea, by our Lord. He will say: Then taste the doom for that ye disbelieved.
 **35.** Then have patience (O Muhammad) even as the stout of heart among the messengers (of old) had patience, and seek not to hasten on (the doom) for them. On the day when they see that which they are promised (it will seem to them) as though they had tarried but an hour of daylight. A clear message. Shall any be destroyed save evil-living folk?
+

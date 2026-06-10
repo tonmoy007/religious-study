@@ -21,6 +21,10 @@ backstory: Revealed in Mecca. Named "Ornaments of Gold" (Az-Zukhruf — v33-35),
 narrative: (1) The Quran as a clear revelation in Arabic (v1-7); (2) The pattern of past nations — they rejected the strongest messenger (v8-25); (3) Abraham's rejection of idolatry (v26-28); (4) The Meccans' excuses and their love of worldly ornaments (v29-45); (5) Moses and Pharaoh — the magicians converted (v46-56); (6) Jesus as a sign — his humanity emphasized (v57-65); (7) The Day of Judgment (v66-89).
 subject: The vanity of worldly wealth (gold ornaments), Abraham's rejection of idols, Moses and Pharaoh, Jesus as a human prophet, the Day of Judgment.
 motivation: To critique the Meccan elite's attachment to wealth and status, and to affirm Jesus as a prophet (not divine) who is merely a "sign" of God's power.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 43. Az-Zukhruf — *Ornaments of gold*
@@ -118,3 +122,4 @@ motivation: To critique the Meccan elite's attachment to wealth and status, and 
 **87.** And if thou ask them who created them, they will surely say: Allah. How then are they turned away?
 **88.** And he saith: O my Lord! Lo! these are a folk who believe not.
 **89.** Then bear with them (O Muhammad) and say: Peace. But they will come to know.
+

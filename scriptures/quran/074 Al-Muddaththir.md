@@ -20,6 +20,10 @@ related:
   - "[[108 Al-Kawthar]]"
   - "[[110 An-Nasr]]"
   - "[[111 Al-Masad]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -88,3 +92,4 @@ related:
 **54.** Nay, verily. Lo! this is an Admonishment.
 **55.** So whosoever will may heed.
 **56.** And they will not heed unless Allah willeth (it). He is the fount of fear. He is the fount of Mercy.
+

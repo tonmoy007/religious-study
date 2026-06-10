@@ -21,6 +21,10 @@ related:
   - "[[025 Al-Furqaan]]"
   - "[[027 An-Naml]]"
   - "[[029 Al-Ankaboot]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -161,3 +165,4 @@ related:
 **126.** If ye punish, then punish with the like of that wherewith ye were afflicted. But if ye endure patiently, verily it is better for the patient.
 **127.** Endure thou patiently (O Muhammad). Thine endurance is only by (the help of) Allah. Grieve not for them, and be not in distress because of that which they devise.
 **128.** Lo! Allah is with those who keep their duty unto Him and those who are doers of good.
+

@@ -21,6 +21,10 @@ related:
   - "[[040 Ghafir]]"
   - "[[041 Fussilat]]"
   - "[[109 Al-Kaafiroon]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -37,3 +41,4 @@ related:
 **2.** Allah, the eternally Besought of all!
 **3.** He begetteth not nor was begotten.
 **4.** And there is none comparable unto Him.
+

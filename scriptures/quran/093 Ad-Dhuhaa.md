@@ -21,6 +21,10 @@ related:
   - "[[009 At-Tawba]]"
   - "[[024 An-Noor]]"
   - "[[030 Ar-Room]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -44,3 +48,4 @@ related:
 **9.** Therefor the orphan oppress not,
 **10.** Therefor the beggar drive not away,
 **11.** Therefor of the bounty of thy Lord be thy discourse.
+

@@ -16,6 +16,10 @@ backstory: "Revealed in Mecca, named after \"The Dawn\" (Al-Fajr — v1). Opens 
 narrative: (1) Oaths by the dawn and the ten nights (v1-5); (2) The destruction of 'Ad (the city of Iram of the pillars) — a city unmatched in the land (v6-8); (3) The destruction of Thamud who carved houses in the rock (v9-10); (4) The destruction of Pharaoh who had the stakes (v10-12); (5) The testing of humanity with prosperity and adversity (v15-20); (6) The righteous soul invited to paradise (v27-30).
 subject: The Dawn, the ten nights (Dhul-Hijjah), the city of Iram (lost city of 'Ad), the punishment of 'Ad, Thamud, and Pharaoh, the tranquil soul (nafs al-mutma'innah).
 motivation: To compress the destruction of the three great tyrants of Arab memory — 'Ad of Iram (the legendary lost city), Thamud of the rock-cut houses, and Pharaoh of the stakes — and to offer rest to "the soul at peace."
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 89. Al-Fajr — *The Dawn*
@@ -54,3 +58,4 @@ motivation: To compress the destruction of the three great tyrants of Arab memor
 **28.** Return unto thy Lord, content in His good pleasure!
 **29.** Enter thou among My bondmen!
 **30.** Enter thou My Garden!
+

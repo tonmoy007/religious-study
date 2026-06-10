@@ -21,6 +21,10 @@ related:
   - "[[032 As-Sajda]]"
   - "[[057 Al-Hadid]]"
   - "[[059 Al-Hashr]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -64,3 +68,4 @@ related:
 **29.** Lo! this is an Admonishment, that whosoever will may choose a way unto his Lord.
 **30.** Yet ye will not, unless Allah willeth. Lo! Allah is Knower, Wise.
 **31.** He maketh whom He will to enter His mercy, and for evil-doers hath prepared a painful doom.
+

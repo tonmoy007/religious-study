@@ -21,6 +21,10 @@ related:
   - "[[023 Al-Muminoon]]"
   - "[[027 An-Naml]]"
   - "[[029 Al-Ankaboot]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -70,3 +74,4 @@ related:
 **35.** This, forasmuch as ye made the revelations of Allah a jest, and the life of the world beguiled you. Therefor this day they come not forth from thence, nor can they make amends.
 **36.** Then praise be to Allah, Lord of the heavens and Lord of the earth, the Lord of the Worlds.
 **37.** And unto Him (alone) belongeth Majesty in the heavens and the earth, and He is the Mighty, the Wise.
+

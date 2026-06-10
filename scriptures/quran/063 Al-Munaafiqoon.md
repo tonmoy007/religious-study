@@ -21,6 +21,10 @@ related:
   - "[[047 Muhammad]]"
   - "[[048 Al-Fath]]"
   - "[[049 Al-Hujuraat]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -44,3 +48,4 @@ related:
 **9.** O ye who believe! Let not your wealth nor your children distract you from remembrance of Allah. Those who do so, they are the losers.
 **10.** And spend of that wherewith We have provided you before death cometh unto one of you and he saith: My Lord! If only thou wouldst reprieve me for a little while, then I would give alms and be among the righteous.
 **11.** But Allah reprieveth no soul when its term cometh, and Allah is Informed of what ye do.
+

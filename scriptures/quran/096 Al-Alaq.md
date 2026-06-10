@@ -21,6 +21,10 @@ related:
   - "[[042 Ash-Shura]]"
   - "[[044 Ad-Dukhaan]]"
   - "[[056 Al-Waaqia]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -52,3 +56,4 @@ related:
 **17.** Then let him call upon his henchmen!
 **18.** We will call the guards of hell.
 **19.** Nay, Obey not thou him. But prostrate thyself, and draw near (unto Allah).
+

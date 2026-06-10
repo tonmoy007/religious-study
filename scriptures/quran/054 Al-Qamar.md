@@ -16,6 +16,10 @@ backstory: Revealed in Mecca. Named after "The Moon" (v1) — "The hour drew nea
 narrative: A series of prophetic warnings, each with the refrain "Is there any that will remember?" (1) The splitting of the moon (v1-5); (2) Noah and the flood (v9-17); (3) 'Ad and Hud (v18-22); (4) Thamud and Salih (v23-32); (5) Lot and his people (v33-40); (6) Pharaoh and his people (v41-46); (7) The disbelievers' fate and the believers' reward (v47-55).
 subject: The splitting of the moon, the warning cycles of Noah, 'Ad, Thamud, Lot, and Pharaoh, the repeated refrain "We made the Quran easy to remember".
 motivation: To warn the Meccans through the five prophetic cycles — each nation rejected and was destroyed — and to invite them to "remember" before it is too late.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 54. Al-Qamar — *The Moon*
@@ -79,3 +83,4 @@ motivation: To warn the Meccans through the five prophetic cycles — each natio
 **53.** And every small and great thing is recorded.
 **54.** Lo! the righteous will dwell among gardens and rivers,
 **55.** Firmly established in the favour of a Mighty King.
+

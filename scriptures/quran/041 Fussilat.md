@@ -15,6 +15,10 @@ backstory: Revealed in Mecca. Named "Explained in Detail" (Fussilat — v3), ref
 narrative: (1) The Quran explained in detail, the disbelievers' rejection (v1-9); (2) The creation of the earth in two days and the heavens in two days — the seven heavens (v10-20); (3) The Day of Judgment — the disbelievers' own limbs testify against them (v21-32); (4) The good deed and the evil deed are not equal (v33-36); (5) The signs of God in creation (v37-48); (6) Human ingratitude and the divine perspective (v49-54).
 subject: The detailed explanation of the Quran, the creation narrative (six days), the Day of Judgment, repelling evil with good, God's signs.
 motivation: To demonstrate the Quran's clarity as a divine revelation, to present the creation as a sign of God's power, and to teach the ethic of responding to evil with goodness.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 41. Fussilat — *Explained in detail*
@@ -77,3 +81,4 @@ motivation: To demonstrate the Quran's clarity as a divine revelation, to presen
 **52.** Bethink you: If it is from Allah and ye reject it - Who is further astray than one who is at open feud (with Allah)?
 **53.** We shall show them Our portents on the horizons and within themselves until it will be manifest unto them that it is the Truth. Doth not thy Lord suffice, since He is Witness over all things?
 **54.** How! Are they still in doubt about the meeting with their Lord? Lo! Is not He surrounding all things?
+

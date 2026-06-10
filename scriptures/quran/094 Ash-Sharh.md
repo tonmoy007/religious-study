@@ -20,6 +20,10 @@ related:
   - "[[108 Al-Kawthar]]"
   - "[[110 An-Nasr]]"
   - "[[111 Al-Masad]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -40,3 +44,4 @@ related:
 **6.** Lo! with hardship goeth ease;
 **7.** So when thou art relieved, still toil
 **8.** And strive to please thy Lord.
+

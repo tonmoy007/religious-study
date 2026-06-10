@@ -21,6 +21,10 @@ related:
   - "[[060 Al-Mumtahana]]"
   - "[[005 Al-Maaida]]"
   - "[[008 Al-Anfaal]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -51,3 +55,4 @@ related:
 **16.** Say (unto them, O Muhammad): Would ye teach Allah your religion, when Allah knoweth all that is in the heavens and all that is in the earth, and Allah is Aware of all things?
 **17.** They make it a favour unto thee (Muhammad) that they have surrendered (unto Him). Say: Deem not your Surrender a favour unto me; but Allah doth confer a favour on you, inasmuch as He hath led you to the Faith, if ye are earnest.
 **18.** Lo! Allah knoweth the Unseen of the heavens and the earth. And Allah is Seer of what ye do.
+

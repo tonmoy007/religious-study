@@ -21,6 +21,10 @@ related:
   - "[[079 An-Naazi'aat]]"
   - "[[081 At-Takwir]]"
   - "[[082 Al-Infitaar]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -59,3 +63,4 @@ related:
 **24.** Allah will punish him with direst punishment.
 **25.** Lo! unto Us is their return
 **26.** And Ours their reckoning.
+

@@ -23,6 +23,10 @@ backstory: Revealed in Mecca, named after the prophet Abraham (Ibrahim). Abraham
 narrative: (1) The Quran as a guide and the disbelievers' rejection (v1-9); (2) The messengers before — their message and the rejection they faced (v10-17); (3) The deeds of the disbelievers vanish like ashes in the wind (v18-27); (4) Abraham's prayer for Mecca and his gratitude (v28-41); (5) The warning of the Day of Judgment (v42-52).
 subject: Abraham's supplication, the mission of the prophets, gratitude vs. ingratitude, the Day of Judgment.
 motivation: To strengthen the Prophet by recalling Abraham's legacy and to present Abraham as the model of pure monotheism and gratitude to God.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 14. Ibrahim — *Abraham*
@@ -83,3 +87,4 @@ motivation: To strengthen the Prophet by recalling Abraham's legacy and to prese
 **50.** Their raiment of pitch, and the Fire covering their faces,
 **51.** That Allah may repay each soul what it hath earned. Lo! Allah is swift at reckoning.
 **52.** This is a clear message for mankind in order that they may be warned thereby, and that they may know that He is only One Allah, and that men of understanding may take heed.
+

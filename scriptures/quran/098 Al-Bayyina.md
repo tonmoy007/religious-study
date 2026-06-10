@@ -17,6 +17,10 @@ related:
   - "[[003 Aal-i-Imraan]]"
   - "[[004 An-Nisaa]]"
   - "[[005 Al-Maaida]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -37,3 +41,4 @@ related:
 **6.** Lo! those who disbelieve, among the People of the Scripture and the idolaters, will abide in fire of hell. They are the worst of created beings.
 **7.** (And) lo! those who believe and do good works are the best of created beings.
 **8.** Their reward is with their Lord: Gardens of Eden underneath which rivers flow, wherein they dwell for ever. Allah hath pleasure in them and they have pleasure in Him. This is (in store) for him who feareth his Lord.
+

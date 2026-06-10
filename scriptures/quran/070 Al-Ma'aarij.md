@@ -20,6 +20,10 @@ related:
   - "[[068 Al-Qalam]]"
   - "[[076 Al-Insaan]]"
   - "[[090 Al-Balad]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 70. Al-Ma'aarij — *The Ascending Stairways*
@@ -72,3 +76,4 @@ related:
 **42.** So let them chat and play until they meet their Day which they are promised,
 **43.** The day when they come forth from the graves in haste, as racing to a goal,
 **44.** With eyes aghast, abasement stupefying them: Such is the Day which they are promised.
+

@@ -20,6 +20,10 @@ backstory: Revealed in Mecca. Named "The Forgiver" (Ghafir — v3), one of God's
 narrative: (1) The attributes of God — the Forgiver, the Acceptor of Repentance (v1-9); (2) The disbelievers and the believing man of Pharaoh's house who secretly believed (v10-45); (3) Pharaoh's people punished in the fire morning and evening (v46-52); (4) Moses sent with clear signs (v53-60); (5) Signs of God in creation (v61-68); (6) The fate of those who reject the message (v69-85).
 subject: The "Haa Meem" group, the believing man in Pharaoh's court, God's forgiveness, Moses and Pharaoh, the Day of Judgment.
 motivation: To show that even within Pharaoh's court there was a secret believer, to encourage the Meccan believers who were hiding their faith, and to emphasize God's forgiveness.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 40. Ghafir — *The Forgiver*
@@ -113,3 +117,4 @@ motivation: To show that even within Pharaoh's court there was a secret believer
 **83.** And when their messengers brought them clear proofs (of Allah's Sovereignty) they exulted in the knowledge they (themselves) possessed. And that which they were wont to mock befell them.
 **84.** Then, when they saw Our doom, they said: We believe in Allah only and reject (all) that we used to associate (with Him).
 **85.** But their faith could not avail them when they saw Our doom. This is Allah's law which hath ever taken course for His bondmen. And then the disbelievers will be ruined.
+

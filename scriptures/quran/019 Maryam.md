@@ -22,6 +22,10 @@ backstory: Revealed in Mecca. Named after Mary (Maryam), the mother of Jesus —
 narrative: "A chain of prophetic stories: (1) Zachariah's prayer for a son — John (v1-15); (2) The Annunciation to Mary and the birth of Jesus (v16-40); (3) Abraham's departure from his idolatrous father (v41-50); (4) Moses, Ishmael, Idris (Enoch) (v51-58); (5) The fate of those who break the covenant (v59-75); (6) The disbelievers' arguments and the Day of Judgment (v76-98)."
 subject: Mary as the mother of Jesus, the prophetic lineage (Zachariah, John, Jesus, Abraham, Moses, Ishmael, Idris), divine mercy, the oneness of God.
 motivation: To affirm Jesus as a prophet (not the son of God) while honouring Mary, and to trace the prophetic lineage from Abraham through Jesus as part of the unified message of monotheism.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 19. Maryam — *Mary*
@@ -128,3 +132,4 @@ motivation: To affirm Jesus as a prophet (not the son of God) while honouring Ma
 **96.** Lo! those who believe and do good works, the Beneficent will appoint for them love.
 **97.** And We make (this Scripture) easy in thy tongue, (O Muhammad) only that thou mayst bear good tidings therewith unto those who ward off (evil), and warn therewith the froward folk.
 **98.** And how many a generation before them have We destroyed! Canst thou (Muhammad) see a single man of them, or hear from them the slightest sound?
+

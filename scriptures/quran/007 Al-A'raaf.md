@@ -27,6 +27,10 @@ backstory: Revealed in Mecca (middle Meccan period). Named after Al-A'raaf (The 
 narrative: "(1) Warning to the Meccans and the nature of revelation (v1-10); (2) The story of Adam and Iblis (v11-25); (3) Admonition to the children of Adam (v26-53); (4) Signs of God in creation (v54-58); (5) The prophet cycles: Noah (v59-64), Hud (v65-72), Salih (v73-79), Lot (v80-84), Shu'ayb (v85-93); (6) Moses and Pharaoh — the detailed confrontation (v94-171); (7) The Covenant under the mountain and the Sabbath-breakers (v172-206)."
 subject: The covenant with God, the fall of Iblis, stories of the Arabian prophets (Hud, Salih, Shu'ayb), Moses and Pharaoh, the Heights (liminal state), God's signs in creation.
 motivation: To warn the Meccans through the fates of past nations who rejected their prophets and to establish the pattern of prophetic mission — warning, rejection, punishment, salvation.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 7. Al-A'raaf — *The Heights*
@@ -241,3 +245,4 @@ motivation: To warn the Meccans through the fates of past nations who rejected t
 **204.** And when the Qur'an is recited, give ear to it and pay heed, that ye may obtain mercy.
 **205.** And do thou (O Muhammad) remember thy Lord within thyself humbly and with awe, below thy breath, at morn and evening. And be not thou of the neglectful.
 **206.** Lo! those who are with thy Lord are not too proud to do Him service, but they praise Him and prostrate before Him.
+

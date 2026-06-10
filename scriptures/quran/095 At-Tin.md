@@ -21,6 +21,10 @@ related:
   - "[[075 Al-Qiyaama]]"
   - "[[077 Al-Mursalaat]]"
   - "[[078 An-Naba]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -41,3 +45,4 @@ related:
 **6.** Save those who believe and do good works, and theirs is a reward unfailing.
 **7.** So who henceforth will give the lie to thee about the judgment?
 **8.** Is not Allah the most conclusive of all judges?
+

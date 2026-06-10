@@ -21,6 +21,10 @@ related:
   - "[[069 Al-Haaqqa]]"
   - "[[075 Al-Qiyaama]]"
   - "[[077 Al-Mursalaat]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -58,3 +62,4 @@ related:
 **23.** And Allah knoweth best what they are hiding.
 **24.** So give them tidings of a painful doom,
 **25.** Save those who believe and do good works, for theirs is a reward unfailing.
+

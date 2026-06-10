@@ -21,6 +21,10 @@ related:
   - "[[079 An-Naazi'aat]]"
   - "[[085 Al-Burooj]]"
   - "[[087 Al-A'laa]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -50,3 +54,4 @@ related:
 **15.** Lo! they plot a plot (against thee, O Muhammad)
 **16.** And I plot a plot (against them).
 **17.** So give a respite to the disbelievers. Deal thou gently with them for a while.
+

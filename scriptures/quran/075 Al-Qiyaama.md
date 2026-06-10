@@ -21,6 +21,10 @@ related:
   - "[[084 Al-Inshiqaaq]]"
   - "[[088 Al-Ghaashiya]]"
   - "[[052 At-Tur]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -73,3 +77,4 @@ related:
 **38.** Then he became a clot; then (Allah) shaped and fashioned
 **39.** And made of him a pair, the male and female.
 **40.** Is not He (Who doeth so) Able to bring the dead to life?
+

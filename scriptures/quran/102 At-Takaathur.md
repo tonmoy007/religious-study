@@ -21,6 +21,10 @@ related:
   - "[[059 Al-Hashr]]"
   - "[[076 Al-Insaan]]"
   - "[[083 Al-Mutaffifin]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -41,3 +45,4 @@ related:
 **6.** For ye will behold hell-fire.
 **7.** Aye, ye will behold it with sure vision.
 **8.** Then, on that day, ye will be asked concerning pleasure.
+

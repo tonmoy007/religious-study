@@ -21,6 +21,10 @@ related:
   - "[[047 Muhammad]]"
   - "[[048 Al-Fath]]"
   - "[[003 Aal-i-Imraan]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -160,3 +164,4 @@ related:
 **127.** And whenever a surah is revealed, they look one at another (as who should say): Doth anybody see you? Then they turn away. Allah turneth away their hearts because they are a folk who understand not.
 **128.** There hath come unto you a messenger, (one) of yourselves, unto whom aught that ye are overburdened is grievous, full of concern for you, for the believers full of pity, merciful.
 **129.** Now, if they turn away (O Muhammad) say: Allah sufficeth me. There is no Allah save Him. In Him have I put my trust, and He is Lord of the Tremendous Throne.
+

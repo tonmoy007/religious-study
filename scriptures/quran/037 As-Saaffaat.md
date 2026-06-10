@@ -23,6 +23,10 @@ backstory: Revealed in Mecca. Named after "Those drawn up in Ranks" (v1 — the 
 narrative: "(1) The angels arranged in ranks, the heavens protected from devils (v1-10); (2) The disbelievers' denial and the resurrection (v11-39); (3) The reward of the believers in paradise (v40-61); (4) The tree of Zaqqum — the food of the damned (v62-74); (5) The prophetic chain: Noah (v75-82), Abraham and the sacrifice (v83-113), Moses and Aaron (v114-122), Elijah (v123-132), Lot (v133-138), Jonah (v139-148); (6) The folly of associating daughters with God (v149-182)."
 subject: The ranks of angels, the prophetic chain, Abraham's willingness to sacrifice his son, Jonah and the whale, the tree of Zaqqum, the denial of divine daughters.
 motivation: To strengthen faith through the stories of the prophets — especially Abraham's absolute submission (the origin of Eid al-Adha) — and to mock the Meccan claim that angels are God's daughters.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 37. As-Saaffaat — *Those drawn up in Ranks*
@@ -213,3 +217,4 @@ motivation: To strengthen faith through the stories of the prophets — especial
 **180.** Glorified be thy Lord, the Lord of Majesty, from that which they attribute (unto Him)
 **181.** And peace be unto those sent (to warn).
 **182.** And praise be to Allah, Lord of the Worlds!
+

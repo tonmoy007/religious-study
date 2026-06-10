@@ -19,6 +19,10 @@ related:
   - "[[108 Al-Kawthar]]"
   - "[[110 An-Nasr]]"
   - "[[089 Al-Fajr]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -36,3 +40,4 @@ related:
 **3.** And send against them swarms of flying creatures,
 **4.** Which pelted them with stones of baked clay,
 **5.** And made them like green crops devoured (by cattle)?
+

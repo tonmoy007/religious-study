@@ -21,6 +21,10 @@ related:
   - "[[013 Ar-Ra'd]]"
   - "[[015 Al-Hijr]]"
   - "[[016 An-Nahl]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -63,3 +67,4 @@ related:
 **28.** And they say: When cometh this victory (of yours) if ye are truthful?
 **29.** Say (unto them): On the day of the victory the faith of those who disbelieve (and who then will believe) will not avail them, neither will they be reprieved.
 **30.** So withdraw from them (O Muhammad), and await (the event). Lo! they (also) are awaiting (it).
+

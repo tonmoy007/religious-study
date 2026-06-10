@@ -17,6 +17,10 @@ backstory: Revealed in Medina. Named after "She that is to be examined" (Al-Mumt
 narrative: (1) Prohibition of taking enemies of God as allies — the example of Abraham (v1-9); (2) The examination of believing women who emigrate — they cannot be returned to the Meccans (v10-13).
 subject: The emigration of believing women, Abraham's dissociation from his idolatrous people, the rules of examining female emigrants, loyalty to the Muslim community.
 motivation: To regulate the situation of believing women who fled Mecca after the Treaty of Hudaybiyyah, and to use Abraham as the model of loyalty to God over family ties.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 60. Al-Mumtahana — *She that is to be examined*
@@ -38,3 +42,4 @@ motivation: To regulate the situation of believing women who fled Mecca after th
 **11.** And if any of your wives have gone from you unto the disbelievers and afterward ye have your turn (of triumph), then give unto those whose wives have gone the like of that which they have spent, and keep your duty to Allah in Whom ye are believers.
 **12.** O Prophet! If believing women come unto thee, taking oath of allegiance unto thee that they will ascribe no thing as partner unto Allah, and will neither steal nor commit adultery nor kill their children, nor produce any lie that they have devised between their hands and feet, nor disobey thee in what is right, then accept their allegiance and ask Allah to forgive them. Lo! Allah is Forgiving, Merciful.
 **13.** O ye who believe! Be not friendly with a folk with whom Allah is wroth, (a folk) who have despaired of the Hereafter as the disbelievers despair of those who are in the graves.
+

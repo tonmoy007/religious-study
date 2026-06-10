@@ -15,6 +15,10 @@ backstory: Revealed in Medina, named after "The Prohibition" (v1). Concerns the 
 narrative: "(1) The Prophet's oath to abstain from what is lawful (v1-5); (2) Warning to the believing families of the Fire (v6-9); (3) Exemplary women: the wives of Noah and Lot as negative examples — they betrayed righteous husbands (v10); (4) Exemplary women: Pharaoh's wife (Asiyah) and Mary as positive examples (v11-12)."
 subject: The Prophet's household oath, the prohibition of lawful things, the examples of Noah's wife, Lot's wife, Pharaoh's wife (Asiyah), and Mary.
 motivation: To address a domestic matter in the Prophet's household (the honey/Mariyah incident) and to present four archetypal women — two who failed despite being married to prophets, and two who triumphed despite being married to tyrants.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 66. At-Tahrim — *The Prohibition*
@@ -35,3 +39,4 @@ motivation: To address a domestic matter in the Prophet's household (the honey/M
 **10.** Allah citeth an example for those who disbelieve: the wife of Noah and the wife of Lot, who were under two of Our righteous slaves yet betrayed them so that they (the husbands) availed them naught against Allah and it was said (unto them): Enter the Fire along with those who enter.
 **11.** And Allah citeth an example for those who believe: the wife of Pharaoh when she said: My Lord! Build for me a home with thee in the Garden, and deliver me from Pharaoh and his work, and deliver me from evil-doing folk;
 **12.** And Mary, daughter of 'Imran, whose body was chaste, therefor We breathed therein something of Our Spirit. And she put faith in the words of her Lord and His scriptures, and was of the obedient.
+

@@ -16,6 +16,10 @@ backstory: Revealed in Mecca. Named "The Criterion" (Al-Furqaan — v1), meaning
 narrative: (1) Praise to God who sent down the Criterion (v1-6); (2) The disbelievers' objections to Muhammad's humanity (v7-16); (3) The false gods on Judgment Day (v17-20); (4) The fate of the disbelievers contrasted with the reward of the believers (v21-34); (5) Prophetic stories — Moses, Noah, 'Ad, Thamud (v35-42); (6) The signs of God in nature (v45-60); (7) The qualities of the true servants of the Merciful (v61-77).
 subject: The Quran as the criterion between truth and falsehood, the attributes of God's faithful servants, the fate of disbelievers.
 motivation: To defend the Quran against accusations that it is human-made, to describe the "servants of the Merciful" as ethical models, and to distinguish truth from falsehood sharply.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 25. Al-Furqaan — *The Criterion*
@@ -101,3 +105,4 @@ motivation: To defend the Quran against accusations that it is human-made, to de
 **75.** They will be awarded the high place forasmuch as they were steadfast, and they will meet therein with welcome and the ward of peace,
 **76.** Abiding there for ever. Happy is it as abode and station!
 **77.** Say (O Muhammad, unto the disbelievers): My Lord would not concern Himself with you but for your prayer. But now ye have denied (the Truth), therefor there will be judgment.
+

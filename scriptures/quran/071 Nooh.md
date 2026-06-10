@@ -23,6 +23,10 @@ backstory: Revealed in Mecca, named after Noah (Nuh). The only surah devoted ent
 narrative: (1) Noah sent to warn his people before a painful doom (v1-4); (2) Noah's complaint — he called them night and day but they fled (v5-12); (3) Noah's argument — see how God created you in stages, the seven heavens, the moon and sun (v13-20); (4) Noah's final lament — the leaders plotted and his people were led astray (v21-25); (5) Noah's curse — "My Lord! Leave not one of the disbelievers in the land" (v26-28).
 subject: Noah's entire missionary career summarized, the flood, the rejection of his people, Noah's plea for destruction of the disbelievers.
 motivation: "To present the archetypal prophet-story: one man calling to God for centuries, rejected by his own people, until he finally invokes destruction upon the disbelievers."
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 71. Nooh — *Noah*
@@ -59,3 +63,4 @@ motivation: "To present the archetypal prophet-story: one man calling to God for
 **26.** And Noah said: My Lord! Leave not one of the disbelievers in the land.
 **27.** If Thou shouldst leave them, they will mislead Thy slaves and will beget none save lewd ingrates.
 **28.** My Lord! Forgive me and my parents and him who entereth my house believing, and believing men and believing women, and increase not the wrong-doers in aught save ruin.
+

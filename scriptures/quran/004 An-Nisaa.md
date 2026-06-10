@@ -22,6 +22,10 @@ backstory: Revealed in Medina after the Battle of Uhud, when the community faced
 narrative: "A series of legal and social injunctions: (1) Rights of women, orphans, and the vulnerable (v1-35); (2) Family law — marriage, divorce, inheritance (v36-43); (3) Dealing with hypocrisy and those who break faith (v44-91); (4) War ethics and treatment of believers and disbelievers (v92-104); (5) The People of the Book and Jesus (v105-176)."
 subject: Women's rights (dowry, inheritance, custody), family law, social justice, hypocrites, the status of Jesus, community governance.
 motivation: To establish a just social and legal order for the Muslim community, protecting the vulnerable (especially women and orphans) while defining community boundaries.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 4. An-Nisaa — *The Women*
@@ -206,3 +210,4 @@ motivation: To establish a just social and legal order for the Muslim community,
 **174.** O mankind! Now hath a proof from your Lord come unto you, and We have sent down unto you a clear light;
 **175.** As for those who believe in Allah, and hold fast unto Him, them He will cause to enter into His mercy and grace, and will guide them unto Him by a straight road.
 **176.** They ask thee for a pronouncement. Say: Allah hath pronounced for you concerning distant kindred. If a man die childless and he have a sister, hers is half the heritage, and he would have inherited from her had she died childless. And if there be two sisters, then theirs are two-thirds of the heritage, and if they be brethren, men and women, unto the male is the equivalent of the share of two females. Allah expoundeth unto you, so that ye err not. Allah is Knower of all things.
+

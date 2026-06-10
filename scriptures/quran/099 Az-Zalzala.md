@@ -21,6 +21,10 @@ related:
   - "[[082 Al-Infitaar]]"
   - "[[075 Al-Qiyaama]]"
   - "[[077 Al-Mursalaat]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -41,3 +45,4 @@ related:
 **6.** That day mankind will issue forth in scattered groups to be shown their deeds.
 **7.** And whoso doeth good an atom's weight will see it then,
 **8.** And whoso doeth ill an atom's weight will see it then.
+

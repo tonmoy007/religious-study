@@ -21,6 +21,10 @@ related:
   - "[[082 Al-Infitaar]]"
   - "[[075 Al-Qiyaama]]"
   - "[[077 Al-Mursalaat]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -44,3 +48,4 @@ related:
 **9.** A bereft and Hungry One will be his mother,
 **10.** Ah, what will convey unto thee what she is! -
 **11.** Raging Fire.
+

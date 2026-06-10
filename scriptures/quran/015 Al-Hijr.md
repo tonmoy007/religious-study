@@ -19,6 +19,10 @@ backstory: Revealed in Mecca. Named after Al-Hijr (The Rock — v80-84), the reg
 narrative: (1) The Quran preserved by God (v1-15); (2) Cosmic signs (v16-25); (3) The creation of Adam and Iblis's rebellion (v26-44); (4) The punishment of the people of Lot (v45-77); (5) The people of Al-Hijr (Thamud) destroyed (v78-84); (6) The Prophet's consolation (v85-99).
 subject: Divine preservation of the Quran, the creation of Adam, Iblis's pride, the fate of Sodom and Thamud, the "rock-hewn" cities.
 motivation: To warn through the destruction of past civilizations and to assure the Prophet that God preserves the revelation.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 15. Al-Hijr — *The Rock*
@@ -126,3 +130,4 @@ motivation: To warn through the destruction of past civilizations and to assure 
 **97.** Well know We that thy bosom is oppressed by what they say,
 **98.** But hymn the praise of thy Lord, and be of those who make prostration (unto Him).
 **99.** And serve thy Lord till the Inevitable cometh unto thee.
+

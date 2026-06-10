@@ -16,6 +16,10 @@ backstory: Revealed in Mecca (late Meccan period). Named after "The Believers" �
 narrative: (1) The qualities of the successful believers — humility, prayer, charity, chastity, trust (v1-11); (2) The stages of human creation from clay (v12-16); (3) The cycles of prophets — Noah, Moses, Jesus (v17-50); (4) The disbelievers' arguments and their fate (v51-90); (5) God's sovereignty (v91-118).
 subject: The character of the true believer, the stages of embryonic development, the prophetic chain (Noah, Moses, Mary and Jesus), the folly of associating partners with God.
 motivation: To provide a comprehensive description of the ideal Muslim character and to contrast the fate of believers with the fate of the disbelievers.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 23. Al-Muminoon — *The Believers*
@@ -142,3 +146,4 @@ motivation: To provide a comprehensive description of the ideal Muslim character
 **116.** Now Allah be Exalted, the True King! There is no Allah save Him, the Lord of the Throne of Grace.
 **117.** He who crieth unto any other god along with Allah hath no proof thereof. His reckoning is only with his Lord. Lo! disbelievers will not be successful.
 **118.** And (O Muhammad) say: My Lord! Forgive and have mercy, for Thou art Best of all who show mercy.
+

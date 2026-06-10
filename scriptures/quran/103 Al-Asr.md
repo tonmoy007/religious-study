@@ -18,6 +18,10 @@ related:
   - "[[108 Al-Kawthar]]"
   - "[[107 Al-Maa'un]]"
   - "[[090 Al-Balad]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 103. Al-Asr — *The Declining Day, Epoch*
@@ -29,3 +33,4 @@ related:
 **1.** By the declining day,
 **2.** Lo! man is a state of loss,
 **3.** Save those who believe and do good works, and exhort one another to truth and exhort one another to endurance.
+

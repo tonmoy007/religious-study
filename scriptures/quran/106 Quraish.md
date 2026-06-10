@@ -17,6 +17,10 @@ related:
   - "[[108 Al-Kawthar]]"
   - "[[110 An-Nasr]]"
   - "[[002 Al-Baqara]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -33,3 +37,4 @@ related:
 **2.** For their taming (We cause) the caravans to set forth in winter and summer.
 **3.** So let them worship the Lord of this House,
 **4.** Who hath fed them against hunger and hath made them safe from fear.
+

@@ -21,6 +21,10 @@ related:
   - "[[027 An-Naml]]"
   - "[[029 Al-Ankaboot]]"
   - "[[030 Ar-Room]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -78,3 +82,4 @@ related:
 **43.** Lo! We it is Who quicken and give death, and unto Us is the journeying.
 **44.** On the day when the earth splitteth asunder from them, hastening forth (they come). That is a gathering easy for Us (to make).
 **45.** We are Best Aware of what they say, and thou (O Muhammad) art in no wise a compeller over them. But warn by the Qur'an him who feareth My threat.
+

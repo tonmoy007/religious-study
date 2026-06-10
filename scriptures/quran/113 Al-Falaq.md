@@ -16,6 +16,10 @@ related:
   - "[[114 An-Naas]]"
   - "[[112 Al-Ikhlaas]]"
   - "[[001 Al-Faatiha]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -33,3 +37,4 @@ related:
 **3.** From the evil of the darkness when it is intense,
 **4.** And from the evil of malignant witchcraft,
 **5.** And from the evil of the envier when he envieth.
+

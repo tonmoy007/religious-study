@@ -21,6 +21,10 @@ related:
   - "[[029 Al-Ankaboot]]"
   - "[[030 Ar-Room]]"
   - "[[031 Luqman]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -76,3 +80,4 @@ related:
 **41.** See they not how we aim to the land, reducing it of its outlying parts? (When) Allah doometh there is none that can postpone His doom, and He is swift at reckoning.
 **42.** Those who were before them plotted; but all plotting is Allah's. He knoweth that which each soul earneth. The disbelievers will come to know for whom will be the sequel of the (heavenly) Home.
 **43.** They who disbelieve say: Thou art no messenger (of Allah). Say: Allah, and whosoever hath knowledge of the Scripture, is sufficient witness between me and you.
+

@@ -21,6 +21,10 @@ related:
   - "[[002 Al-Baqara]]"
   - "[[005 Al-Maaida]]"
   - "[[024 An-Noor]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -45,3 +49,4 @@ related:
 **10.** Allah hath prepared for them stern punishment; so keep your duty to Allah, O men of understanding! O ye who believe! Now Allah hath sent down unto you a reminder,
 **11.** A messenger reciting unto you the revelations of Allah made plain, that He may bring forth those who believe and do good works from darkness unto light. And whosoever believeth in Allah and doeth right, He will bring him into Gardens underneath which rivers flow, therein to abide for ever. Allah hath made good provision for him.
 **12.** Allah it is who hath created seven heavens, and of the earth the like thereof. The commandment cometh down among them slowly, that ye may know that Allah is Able to do all things, and that Allah surroundeth all things in knowledge.
+

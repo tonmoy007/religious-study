@@ -21,6 +21,10 @@ related:
   - "[[077 Al-Mursalaat]]"
   - "[[078 An-Naba]]"
   - "[[079 An-Naazi'aat]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -82,3 +86,4 @@ related:
 **47.** And verily, for those who do wrong, there is a punishment beyond that. But most of them know not.
 **48.** So wait patiently (O Muhammad) for thy Lord's decree, for surely thou art in Our sight; and hymn the praise of thy Lord when thou uprisest,
 **49.** And in the night-time also hymn His praise, and at the setting of the stars.
+

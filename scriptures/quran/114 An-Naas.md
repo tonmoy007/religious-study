@@ -16,6 +16,10 @@ related:
   - "[[113 Al-Falaq]]"
   - "[[112 Al-Ikhlaas]]"
   - "[[001 Al-Faatiha]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -34,3 +38,4 @@ related:
 **4.** From the evil of the sneaking whisperer,
 **5.** Who whispereth in the hearts of mankind,
 **6.** Of the jinn and of mankind.
+

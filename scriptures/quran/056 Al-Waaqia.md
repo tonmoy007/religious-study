@@ -21,6 +21,10 @@ related:
   - "[[081 At-Takwir]]"
   - "[[082 Al-Infitaar]]"
   - "[[085 Al-Burooj]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -129,3 +133,4 @@ related:
 **94.** And roasting at hell-fire.
 **95.** Lo! this is certain truth.
 **96.** Therefor (O Muhammad) praise the name of thy Lord, the Tremendous.
+

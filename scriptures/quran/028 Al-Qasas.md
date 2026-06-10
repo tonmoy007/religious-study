@@ -21,6 +21,10 @@ backstory: Revealed in Mecca. Named after "The Stories" (Al-Qasas — v25), refe
 narrative: (1) Moses born, cast into the Nile, rescued by Pharaoh's wife (v1-13); (2) Moses kills the Egyptian, flees to Midian, meets Jethro and marries (v14-28); (3) The call at the burning bush (v29-35); (4) Moses and Pharaoh — the confrontation (v36-44); (5) The revelation of the Quran and the People of the Book (v45-55); (6) Qarun (Korah) — the wealthy man who was swallowed by the earth (v56-88).
 subject: The early life of Moses, his flight to Midian, the burning bush, Qarun/Korah's pride and destruction, the Quran as a mercy to humanity.
 motivation: To fill in the details of Moses's early life not found in other surahs, and to draw parallels between the Meccans' rejection of Muhammad and Pharaoh's rejection of Moses.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 28. Al-Qasas — *The Stories*
@@ -117,3 +121,4 @@ motivation: To fill in the details of Moses's early life not found in other sura
 **86.** Thou hadst no hope that the Scripture would be inspired in thee; but it is a mercy from thy Lord, so never be a helper to the disbelievers.
 **87.** And let them not divert thee from the revelations of Allah after they have been sent down unto thee; but call (mankind) unto thy Lord, and be not of those who ascribe partners (unto Him).
 **88.** And cry not unto any other god along with Allah. There is no Allah save Him. Everything will perish save His countenance. His is the command, and unto Him ye will be brought back.
+

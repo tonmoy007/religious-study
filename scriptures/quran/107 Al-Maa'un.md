@@ -21,6 +21,10 @@ related:
   - "[[059 Al-Hashr]]"
   - "[[076 Al-Insaan]]"
   - "[[083 Al-Mutaffifin]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -40,3 +44,4 @@ related:
 **5.** Who are heedless of their prayer;
 **6.** Who would be seen (at worship)
 **7.** Yet refuse small kindnesses!
+

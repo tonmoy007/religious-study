@@ -22,6 +22,10 @@ backstory: One of the last surahs revealed (close to the Farewell Pilgrimage, 10
 narrative: (1) Fulfilling covenants and contracts (v1-11); (2) The covenant with Israel and how it was broken (v12-26); (3) Cain and Abel (v27-31); (4) The punishment for murder, brigandage, theft (v32-40); (5) Jews and Christians distort scripture (v41-86); (6) Dietary laws and purity (v87-108); (7) Jesus's questioning of his followers — the Table miracle (v109-120).
 subject: Covenants, crime and punishment, dietary laws, the corruption of earlier scriptures, Jesus as a prophet, interfaith relations.
 motivation: To finalize the legal code of the Muslim community and to clarify the relationship with Jews and Christians — affirming their scriptures while warning against distortion.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 5. Al-Maaida — *The Table*
@@ -150,3 +154,4 @@ motivation: To finalize the legal code of the Muslim community and to clarify th
 **118.** If Thou punish them, lo! they are Thy slaves, and if Thou forgive them (lo! they are Thy slaves). Lo! Thou, only Thou, art the Mighty, the Wise.
 **119.** Allah saith: This is a day in which their truthfulness profiteth the truthful, for theirs are Gardens underneath which rivers flow, wherein they are secure for ever, Allah taking pleasure in them and they in Him. That is the great triumph.
 **120.** Unto Allah belongeth the Sovereignty of the heavens and the earth and whatsoever is therein, and He is Able to do all things.
+

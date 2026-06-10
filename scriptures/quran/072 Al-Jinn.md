@@ -21,6 +21,10 @@ related:
   - "[[042 Ash-Shura]]"
   - "[[044 Ad-Dukhaan]]"
   - "[[046 Al-Ahqaf]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -61,3 +65,4 @@ related:
 **26.** (He is) the Knower of the Unseen, and He revealeth unto none His secret,
 **27.** Save unto every messenger whom He hath chosen, and then He maketh a guard to go before him and a guard behind him
 **28.** That He may know that they have indeed conveyed the messages of their Lord. He surroundeth all their doings, and He keepeth count of all things.
+

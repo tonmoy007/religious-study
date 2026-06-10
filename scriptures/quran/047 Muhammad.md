@@ -21,6 +21,10 @@ related:
   - "[[033 Al-Ahzaab]]"
   - "[[049 Al-Hujuraat]]"
   - "[[057 Al-Hadid]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -71,3 +75,4 @@ related:
 **36.** The life of the world is but a sport and a pastime. And if ye believe and ward off (evil). He will give you your wages, and will not ask of you your wordly wealth.
 **37.** If He should ask it of you and importune you, ye would hoard it, and He would bring to light your (secret) hates.
 **38.** Lo! ye are those who are called to spend in the way of Allah, yet among you there are some who hoard. And as for him who hoardeth, he hoardeth only from his soul. And Allah is the Rich, and ye are the poor. And if ye turn away He will exchange you for some other folk, and they will not be the likes of you.
+

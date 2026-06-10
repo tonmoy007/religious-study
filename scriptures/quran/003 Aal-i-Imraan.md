@@ -24,6 +24,10 @@ backstory: Revealed in Medina, closely connected to the aftermath of the Battle 
 narrative: "Two main parts: (1) Theological polemic with Jews and Christians — the oneness of God, Jesus as a prophet not a son, Abraham as a hanif (v1-99); (2) The Battle of Uhud — lessons in faith, steadfastness, obedience (v100-200). The Birth of Mary and Jesus story anchors the first part."
 subject: The family of Mary (Imran's line), Jesus's prophethood (crucifixion and ascension), God's unity vs. the Trinity, the Battle of Uhud, patience in adversity.
 motivation: To correct Christian and Jewish theology from the Quranic perspective and to strengthen Muslim morale after the setback at Uhud.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 3. Aal-i-Imraan — *The Family of Imraan*
@@ -232,3 +236,4 @@ motivation: To correct Christian and Jewish theology from the Quranic perspectiv
 **198.** But those who keep their duty to their Lord, for them are Gardens underneath which rivers flow, wherein they will be safe for ever. A gift of welcome from their Lord. That which Allah hath in store is better for the righteous.
 **199.** And lo! of the People of the Scripture there are some who believe in Allah and that which is revealed unto you and that which was revealed unto them, humbling themselves before Allah. They purchase not a trifling gain at the price of the revelations of Allah. Verily their reward is with their Lord. Lo! Allah is swift to take account.
 **200.** O ye who believe! Endure, outdo all others in endurance, be ready, and observe your duty to Allah, in order that ye may succeed.
+

@@ -21,6 +21,10 @@ related:
   - "[[027 An-Naml]]"
   - "[[029 Al-Ankaboot]]"
   - "[[030 Ar-Room]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -75,3 +79,4 @@ related:
 **40.** And other faces, on that day, with dust upon them,
 **41.** Veiled in darkness,
 **42.** Those are the disbelievers, the wicked.
+

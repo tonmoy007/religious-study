@@ -21,6 +21,10 @@ related:
   - "[[048 Al-Fath]]"
   - "[[049 Al-Hujuraat]]"
   - "[[065 At-Talaaq]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -55,3 +59,4 @@ related:
 **20.** Lo! those who oppose Allah and His messenger, they will be among the lowest.
 **21.** Allah hath decreed: Lo! I verily shall conquer, I and My messengers. Lo! Allah is Strong, Almighty.
 **22.** Thou wilt not find folk who believe in Allah and the Last Day loving those who oppose Allah and His messenger, even though they be their fathers or their sons or their brethren or their clan. As for such, He hath written faith upon their hearts and hath strengthened them with a Spirit from Him, and He will bring them into Gardens underneath which rivers flow, wherein they will abide. Allah is well pleased with them, and they are well pleased with Him. They are Allah's party. Lo! is it not Allah's party who are the successful?
+

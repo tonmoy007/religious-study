@@ -21,6 +21,10 @@ related:
   - "[[009 At-Tawba]]"
   - "[[024 An-Noor]]"
   - "[[030 Ar-Room]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -53,3 +57,4 @@ related:
 **18.** Their place will be on the right hand.
 **19.** But those who disbelieve Our revelations, their place will be on the left hand.
 **20.** Fire will be an awning over them.
+

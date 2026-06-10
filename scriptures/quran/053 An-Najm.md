@@ -15,6 +15,10 @@ backstory: Revealed in Mecca. Named after "The Star" (v1). Contains the famous "
 narrative: (1) By the Star — the Prophet saw the angel Gabriel in his true form (v1-18); (2) The "Satanic Verses" interpolation regarding Al-Lat, Al-Uzza, and Manat (v19-23); (3) God alone gives and takes (v24-32); (4) The record of Abraham and Moses (v33-54); (5) The coming judgment (v55-62).
 subject: The Star, the Prophet's vision of Gabriel, the ascension (Mi'raj), the refutation of the goddesses Al-Lat, Al-Uzza, and Manat, Abraham's scrolls, the judgment.
 motivation: To affirm the Prophet's divine encounter (the Mi'raj) and to decisively reject the Meccan goddesses as mere names with no power.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 53. An-Najm — *The Star*
@@ -85,3 +89,4 @@ motivation: To affirm the Prophet's divine encounter (the Mi'raj) and to decisiv
 **60.** And laugh and not weep,
 **61.** While ye amuse yourselves?
 **62.** Rather prostrate yourselves before Allah and serve Him.
+

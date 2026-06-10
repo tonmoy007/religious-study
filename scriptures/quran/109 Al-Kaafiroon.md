@@ -21,6 +21,10 @@ related:
   - "[[040 Ghafir]]"
   - "[[041 Fussilat]]"
   - "[[112 Al-Ikhlaas]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -39,3 +43,4 @@ related:
 **4.** And I shall not worship that which ye worship.
 **5.** Nor will ye worship that which I worship.
 **6.** Unto you your religion, and unto me my religion.
+

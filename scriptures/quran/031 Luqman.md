@@ -17,6 +17,10 @@ backstory: Revealed in Mecca. Named after Luqman (v12-19) — a wise man (not a 
 narrative: (1) The Quran as guidance and mercy (v1-11); (2) Luqman's advice to his son — don't associate partners with God, honour parents, establish prayer, enjoin good, forbid evil, be humble (v12-19); (3) God's blessings and the rejection of the disbelievers (v20-30); (4) The seas, the ships, and the signs of God (v31-34).
 subject: Luqman's wisdom to his son, filial piety, humility, the signs of God in creation, God's infinite knowledge.
 motivation: To present Luqman's timeless ethical advice as a model of wisdom and to teach that wisdom begins with gratitude to God and humility toward others.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 31. Luqman — *Luqman*
@@ -59,3 +63,4 @@ motivation: To present Luqman's timeless ethical advice as a model of wisdom and
 **32.** And if a wave enshroudeth them like awnings, they cry unto Allah, making their faith pure for Him only. But when He bringeth them safe to land, some of them compromise. None denieth Our signs save every traitor ingrate.
 **33.** O mankind! Keep your duty to your Lord and fear a Day when the parent will not be able to avail the child in aught, nor the child to avail the parent. Lo! Allah's promise is the very truth. Let not the life of the world beguile you, nor let the deceiver beguile you, in regard to Allah.
 **34.** Lo! Allah! With Him is knowledge of the Hour. He sendeth down the rain, and knoweth that which is in the wombs. No soul knoweth what it will earn to-morrow, and no soul knoweth in what land it will die. Lo! Allah is Knower, Aware.
+

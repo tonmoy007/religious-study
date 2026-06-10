@@ -21,6 +21,10 @@ related:
   - "[[009 At-Tawba]]"
   - "[[024 An-Noor]]"
   - "[[030 Ar-Room]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -54,3 +58,4 @@ related:
 **19.** And none hath with him any favour for reward,
 **20.** Except as seeking (to fulfil) the purpose of his Lord Most High.
 **21.** He verily will be content.
+

@@ -21,6 +21,10 @@ related:
   - "[[027 An-Naml]]"
   - "[[029 Al-Ankaboot]]"
   - "[[030 Ar-Room]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -116,3 +120,4 @@ related:
 **81.** Is not He Who created the heavens and the earth Able to create the like of them? Aye, that He is! for He is the All-Wise Creator,
 **82.** But His command, when He intendeth a thing, is only that He saith unto it: Be! and it is.
 **83.** Therefor Glory be to Him in Whose hand is the dominion over all things! Unto Him ye will be brought back.
+

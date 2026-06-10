@@ -18,6 +18,10 @@ related:
   - "[[097 Al-Qadr]]"
   - "[[036 Yaseen]]"
   - "[[002 Al-Baqara]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 1. Al-Faatiha — *The Opening*
@@ -31,3 +35,4 @@ related:
 **5.** Thee (alone) we worship; Thee (alone) we ask for help.
 **6.** Show us the straight path,
 **7.** The path of those whom Thou hast favoured; Not the (path) of those who earn Thine anger nor of those who go astray.
+

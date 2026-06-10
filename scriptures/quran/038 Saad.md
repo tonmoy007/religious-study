@@ -22,6 +22,10 @@ backstory: Revealed in Mecca. Named after the letter "Saad" that opens it. A sur
 narrative: (1) The disbelievers' astonishment at a warner from among them (v1-16); (2) David — his prayer, the two disputants, and his repentance (v17-29); (3) Solomon — his love of horses, his repentance, and his sovereignty (v30-40); (4) Job — his patience in affliction and restoration (v41-44); (5) Abraham, Isaac, Jacob, Ishmael, Elisha, Dhul-Kifl (v45-48); (6) Paradise and Hell (v49-66); (7) The creation of Adam and Iblis's refusal to prostrate (v67-88).
 subject: David's judgment and repentance, Solomon's repentance, Job's patience, the creation of Adam and Iblis's pride, paradise and hell.
 motivation: To show that even the greatest prophets repented and sought God's forgiveness, and to contrast Iblis's pride with the humility of the prophets.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 38. Saad — *The letter Saad*
@@ -118,3 +122,4 @@ motivation: To show that even the greatest prophets repented and sought God's fo
 **86.** Say (O Muhammad, unto mankind): I ask of you no fee for this, and I am no simulating.
 **87.** Lo! it is naught else than a reminder for all peoples
 **88.** And ye will come in time to know the truth thereof.
+

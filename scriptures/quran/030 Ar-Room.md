@@ -21,6 +21,10 @@ related:
   - "[[022 Al-Hajj]]"
   - "[[023 Al-Muminoon]]"
   - "[[024 An-Noor]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -93,3 +97,4 @@ related:
 **58.** Verily We have coined for mankind in this Qur'an all kinds of similitudes; and indeed if thou camest unto them with a miracle, those who disbelieve would verily exclaim: Ye are but tricksters!
 **59.** Thus doth Allah seal the hearts of those who know not.
 **60.** So have patience (O Muhammad)! Allah's promise is the very truth, and let not those who have no certainty make thee impatient.
+

@@ -30,6 +30,10 @@ backstory: Revealed in Mecca, named "The Prophets" — a unique surah that catal
 narrative: "(1) The Judgment Day approaches and the heedlessness of people (v1-15); (2) The creation of the heavens and the earth (v16-33); (3) A chain of prophets: Moses and Aaron (v48-50), Abraham (v51-71), Lot (v74-75), Noah (v76-77), David and Solomon (v78-82), Job (v83-84), Ishmael, Idris, Dhul-Kifl (v85-86), Dhul-Nun/Jonah (v87-88), Zachariah and John (v89-90), Mary and Jesus (v91-92); (4) The futility of false gods (v93-112)."
 subject: The unity of the prophetic message, the chain of prophets from Moses to Jesus, God's judgment, the folly of idolatry.
 motivation: To demonstrate that all prophets brought the same message (monotheism) and that the Meccans' rejection of Muhammad is the same as past nations' rejection of their prophets.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 21. Al-Anbiyaa — *The Prophets*
@@ -150,3 +154,4 @@ motivation: To demonstrate that all prophets brought the same message (monotheis
 **110.** Lo! He knoweth that which is said openly, and that which ye conceal.
 **111.** And I know not but that this may be a trial for you, and enjoyment for a while.
 **112.** He saith: My Lord! Judge Thou with truth. Our Lord is the Beneficent, Whose help is to be implored against that which ye ascribe (unto Him).
+

@@ -21,6 +21,10 @@ see-also:
   - "[[Jonah and Yunus - A Figure Traced]]"
   - "[[Noah and Nuh - A Figure Traced]]"
   - "[[Moses and Musa - A Figure Traced]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 10. Yunus — *Jonas*
@@ -138,3 +142,4 @@ see-also:
 **107.** If Allah afflicteth thee with some hurt, there is none who can remove it save Him; and if He desireth good for thee, there is none who can repel His bounty. He striketh with it whom He will of his bondmen. He is the Forgiving, the Merciful.
 **108.** Say: O mankind! Now hath the Truth from your Lord come unto you. So whosoever is guided, is guided only for (the good of) his soul, and whosoever erreth erreth only against it. And I am not a warder over you.
 **109.** And (O Muhammad) follow that which is inspired in thee, and forbear until Allah give judgment. And He is the Best of Judges.
+

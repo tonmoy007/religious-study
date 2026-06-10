@@ -21,6 +21,10 @@ related:
   - "[[027 An-Naml]]"
   - "[[029 Al-Ankaboot]]"
   - "[[030 Ar-Room]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -63,3 +67,4 @@ related:
 **28.** Say (O Muhammad): Have ye thought: Whether Allah causeth me (Muhammad) and those with me to perish or hath mercy on us, still, who will protect the disbelievers from a painful doom?
 **29.** Say: He is the Beneficent. In Him we believe and in Him we put our trust. And ye will soon know who it is that is in error manifest.
 **30.** Say: Have ye thought: If (all) your water were to disappear into the earth, who then could bring you gushing water?
+

@@ -17,6 +17,10 @@ related:
   - "[[059 Al-Hashr]]"
   - "[[061 As-Saff]]"
   - "[[062 Al-Jumu'a]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -47,3 +51,4 @@ related:
 **16.** So keep your duty to Allah as best ye can, and listen, and obey, and spend; that is better for your souls. And whoso is saved from his own greed, such are the successful.
 **17.** If ye lend unto Allah a goodly loan, He will double it for you and will forgive you, for Allah is Responsive, Clement,
 **18.** Knower of the Invisible and the Visible, the Mighty, the Wise.
+

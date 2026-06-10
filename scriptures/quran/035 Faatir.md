@@ -21,6 +21,10 @@ related:
   - "[[027 An-Naml]]"
   - "[[029 Al-Ankaboot]]"
   - "[[030 Ar-Room]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -78,3 +82,4 @@ related:
 **43.** (Shown in their) behaving arrogantly in the land and plotting evil; and the evil plot encloseth but the men who make it. Then, can they expect aught save the treatment of the folk of old? Thou wilt not find for Allah's way of treatment any substitute, nor wilt thou find for Allah's way of treatment aught of power to change.
 **44.** Have they not travelled in the land and seen the nature of the consequence for those who were before them, and they were mightier than these in power? Allah is not such that aught in the heavens or in the earth escapeth Him. Lo! He is the Wise, the Mighty.
 **45.** If Allah took mankind to task by that which they deserve, He would not leave a living creature on the surface of the earth; but He reprieveth them unto an appointed term, and when their term cometh - then verily (they will know that) Allah is ever Seer of His slaves.
+

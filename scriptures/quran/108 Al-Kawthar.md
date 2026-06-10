@@ -21,6 +21,10 @@ related:
   - "[[105 Al-Fil]]"
   - "[[106 Quraish]]"
   - "[[110 An-Nasr]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -36,3 +40,4 @@ related:
 **1.** Lo! We have given thee Abundance;
 **2.** So pray unto thy Lord, and sacrifice.
 **3.** Lo! it is thy insulter (and not thou) who is without posterity.
+

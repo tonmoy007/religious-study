@@ -21,6 +21,10 @@ related:
   - "[[059 Al-Hashr]]"
   - "[[003 Aal-i-Imraan]]"
   - "[[004 An-Nisaa]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -108,3 +112,4 @@ related:
 **73.** And those who disbelieve are protectors one of another - If ye do not so, there will be confusion in the land, and great corruption.
 **74.** Those who believed and left their homes and strove for the cause of Allah, and those who took them in and helped them - these are the believers in truth. For them is pardon, and bountiful provision.
 **75.** And those who afterwards believed and left their homes and strove along with you, they are of you; and those who are akin are nearer one to another in the ordinance of Allah. Lo! Allah is Knower of all things.
+

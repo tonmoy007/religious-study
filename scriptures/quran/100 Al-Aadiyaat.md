@@ -21,6 +21,10 @@ related:
   - "[[009 At-Tawba]]"
   - "[[024 An-Noor]]"
   - "[[030 Ar-Room]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -44,3 +48,4 @@ related:
 **9.** Knoweth he not that, when the contents of the graves are poured forth
 **10.** And the secrets of the breasts are made known,
 **11.** On that day will their Lord be perfectly informed concerning them.
+

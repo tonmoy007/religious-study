@@ -16,6 +16,10 @@ backstory: Revealed in Mecca, named after "The Reality" (Al-Haaqqa — v1-3), a 
 narrative: (1) The Reality — the judgment is true (v1-3); (2) The fate of Thamud (destroyed by lightning), 'Ad (destroyed by wind), Pharaoh and the inundation (v4-12); (3) The Day of Judgment — the Trumpet, the splitting of heaven, the Throne (v13-18); (4) Those who receive their book in the right hand (v19-24); (5) Those who receive their book in the left hand (v25-37); (6) The Quran is revelation, not poetry (v38-52).
 subject: The Reality (Al-Haaqqa), the destruction of Thamud, 'Ad, Pharaoh, the record in the right hand vs. the left hand, the Quran as revealed speech.
 motivation: To use the dramatic refrain "Al-Haaqqa" to impress the certainty of judgment, and to declare the Quran divine speech — not the product of a poet or a soothsayer.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 69. Al-Haaqqa — *The Reality*
@@ -76,3 +80,4 @@ motivation: To use the dramatic refrain "Al-Haaqqa" to impress the certainty of 
 **50.** And lo! it is indeed an anguish for the disbelievers.
 **51.** And lo! it is absolute truth.
 **52.** So glorify the name of thy Tremendous Lord.
+

@@ -22,6 +22,10 @@ backstory: Revealed in Mecca. Named after "The Winnowing Winds" (v1) — the win
 narrative: (1) Oaths by the winds, the clouds, the ships — the promise of judgment is true (v1-23); (2) The story of Abraham and the honoured guests (v24-37); (3) Moses and Pharaoh (v38-40); (4) 'Ad and the devastating wind (v41-42); (5) Thamud and the earthquake (v43-45); (6) Noah and the flood (v46-46); (7) The purpose of creation — to worship God (v47-60).
 subject: The oaths of creation, Abraham's honoured guests (the angels who foretold Isaac and destroyed Lot's people), the fate of 'Ad, Thamud, Pharaoh, and Noah, the purpose of creation.
 motivation: To affirm the certainty of judgment through vivid oaths and prophetic stories, culminating in the declaration that God created jinn and humanity only to worship Him.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 51. Adh-Dhaariyat — *The Winnowing Winds*
@@ -90,3 +94,4 @@ motivation: To affirm the certainty of judgment through vivid oaths and propheti
 **58.** Lo! Allah! He it is that giveth livelihood, the Lord of unbreakable might.
 **59.** And lo! for those who (now) do wrong there is an evil day like unto the evil day (which came for) their likes (of old); so let them not ask Me to hasten on (that day).
 **60.** And woe unto those who disbelieve, from (that) their day which they are promised.
+

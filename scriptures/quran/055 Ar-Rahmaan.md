@@ -21,6 +21,10 @@ related:
   - "[[006 Al-An'aam]]"
   - "[[013 Ar-Ra'd]]"
   - "[[016 An-Nahl]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -111,3 +115,4 @@ related:
 **76.** Reclining on green cushions and fair carpets.
 **77.** Which is it, of the favours of your Lord, that ye deny?
 **78.** Blessed be the name of thy Lord, Mighty and glorious!
+

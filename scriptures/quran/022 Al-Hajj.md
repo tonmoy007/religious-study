@@ -17,6 +17,10 @@ backstory: Revealed partly in Mecca and partly in Medina (a mixed surah). Named 
 narrative: (1) The Day of Judgment — the earthquake and the terror (v1-2); (2) The disbelievers' arguments refuted (v3-24); (3) The pilgrimage — Abraham establishing the rites (v25-37); (4) Permission to fight — the first revelation of jihad (v39-41); (5) The fate of past nations (v42-57); (6) The sovereignty of God (v58-78).
 subject: The Hajj (pilgrimage), permission for armed defence, the Day of Judgment, Abraham's building of the Kaaba, God's defence of the believers.
 motivation: To establish the rites of pilgrimage and to grant permission for the oppressed Muslims to fight in self-defence — a key turning point in early Islamic history.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 22. Al-Hajj — *The Pilgrimage*
@@ -103,3 +107,4 @@ motivation: To establish the rites of pilgrimage and to grant permission for the
 **76.** He knoweth all that is before them and all that is behind them, and unto Allah all things are returned. $$A
 **77.** O ye who believe! Bow down and prostrate yourselves, and worship your Lord, and do good, that haply ye may prosper.
 **78.** And strive for Allah with the endeavour which is His right. He hath chosen you and hath not laid upon you in religion any hardship; the faith of your father Abraham (is yours). He hath named you Muslims of old time and in this (Scripture), that the messenger may be a witness against you, and that ye may be witnesses against mankind. So establish worship, pay the poor-due, and hold fast to Allah. He is your Protecting friend. A blessed Patron and a blessed Helper!
+

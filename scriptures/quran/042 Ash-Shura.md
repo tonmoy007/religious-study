@@ -18,6 +18,10 @@ backstory: Revealed in Mecca. Named "Consultation" (Ash-Shura — v38), one of t
 narrative: (1) The revelation from God, the Mighty, the Wise (v1-12); (2) The religion of Noah, Abraham, Moses, Jesus — the same faith (v13-19); (3) God's provision and the disbelievers' ingratitude (v20-28); (4) The signs of God — ships, the stars, the rain (v29-39); (5) The reward of patience and forgiveness (v40-48); (6) God gives daughters and sons as He wills (v49-53).
 subject: Mutual consultation (shura), the unity of religion across prophets, God's signs in nature, patience and forgiveness, divine sovereignty over creation.
 motivation: To establish that all prophets taught the same religion (submission to God), and to outline the principle of consultation as a key virtue of the believing community.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 42. Ash-Shura — *Consultation*
@@ -79,3 +83,4 @@ motivation: To establish that all prophets taught the same religion (submission 
 **51.** And it was not (vouchsafed) to any mortal that Allah should speak to him unless (it be) by revelation or from behind a veil, or (that) He sendeth a messenger to reveal what He will by His leave. Lo! He is Exalted, Wise.
 **52.** And thus have We inspired in thee (Muhammad) a Spirit of Our command. Thou knewest not what the Scripture was, nor what the Faith. But We have made it a light whereby We guide whom We will of Our bondmen. And lo! thou verily dost guide unto a right path,
 **53.** The path of Allah, unto Whom belongeth whatsoever is in the heavens and whatsoever is in the earth. Do not all things reach Allah at last?
+

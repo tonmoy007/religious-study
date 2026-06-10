@@ -18,6 +18,10 @@ backstory: Revealed in Medina, named after "The Ranks" (v4) — "Lo! Allah lovet
 narrative: "(1) Glorification of God and the call to practice what is preached (v1-4); (2) Moses' complaint to his people (v5); (3) Jesus' prophecy of Ahmad (the Praised One) to come after him (v6); (4) The light of God will prevail (v7-9); (5) The transaction: belief and striving in exchange for paradise (v10-13); (6) An appeal to be God's helpers as the disciples were (v14)."
 subject: The ranks of battle, the criticism of saying what one does not do, Jesus' prophecy of Muhammad ("Ahmad"), Moses' rebuke of Israel, the "transaction" of faith for paradise.
 motivation: To rebuke those who say but do not do, and to affirm Jesus' prophecy of the coming messenger named "Ahmad" (an echo of "Muhammad").
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 61. As-Saff — *The Ranks*
@@ -40,3 +44,4 @@ motivation: To rebuke those who say but do not do, and to affirm Jesus' prophecy
 **12.** He will forgive you your sins and bring you into Gardens underneath which rivers flow, and pleasant dwellings in Gardens of Eden. That is the supreme triumph.
 **13.** And (He will give you) another (blessing) which ye love: help from Allah and present victory. Give good tidings (O Muhammad) to believers.
 **14.** O ye who believe! Be Allah's helpers, even as Jesus son of Mary said unto the disciples: Who are my helpers for Allah? They said: We are Allah's helpers. And a party of the Children of Israel believed, while a party disbelieved. Then We strengthened those who believed against their foe, and they became the uppermost.
+

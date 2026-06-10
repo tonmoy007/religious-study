@@ -17,6 +17,10 @@ backstory: "Revealed in Mecca, named after \"The Palm Fibre\" (Al-Masad — v5).
 narrative: (1) The hands of Abu Lahab will perish — his wealth and earnings will not avail (v1-3); (2) His wife (Umm Jamil) will be the carrier of firewood — around her neck a halter of palm fibre (v4-5).
 subject: Abu Lahab's condemnation, the fate of his wife Umm Jamil (the "carrier of firewood"), the halter of palm fibre in Hell.
 motivation: To pronounce judgment on the Prophet's own uncle who opposed him most bitterly — showing that even family ties do not shield one from divine justice.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 111. Al-Masad — *The Palm Fibre*
@@ -30,3 +34,4 @@ motivation: To pronounce judgment on the Prophet's own uncle who opposed him mos
 **3.** He will be plunged in flaming Fire,
 **4.** And his wife, the wood-carrier,
 **5.** Will have upon her neck a halter of palm-fibre.
+

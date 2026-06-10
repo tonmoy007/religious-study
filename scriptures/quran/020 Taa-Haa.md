@@ -21,6 +21,10 @@ backstory: Revealed in Mecca, named after the two disconnected letters "Ta Ha" t
 narrative: (1) The opening — the Quran as a reminder, not a burden (v1-8); (2) Moses's call at the burning bush (v9-24); (3) Moses's prayer and the staff/signs (v25-48); (4) Moses and Pharaoh — the confrontation and the sorcerers' conversion (v49-76); (5) The Exodus, the golden calf, and the covenant (v77-98); (6) The story of Adam and Iblis (v99-114); (7) The Meccans warned (v115-135).
 subject: The life of Moses from birth to the Exodus, the golden calf, the call at the burning bush, Adam's fall, the Day of Judgment.
 motivation: To reassure the Prophet that just as Moses succeeded against Pharaoh, he too will succeed, and to warn the Meccans not to be like the people who rejected Moses.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 20. Taa-Haa — *Taa-Haa*
@@ -164,3 +168,4 @@ motivation: To reassure the Prophet that just as Moses succeeded against Pharaoh
 **133.** And they say: If only he would bring us a miracle from his Lord! Hath there not come unto them the proof of what is in the former scriptures?
 **134.** And if we had destroyed them with some punishment before it, they would assuredly have said: Our Lord! If only Thou hadst sent unto us a messenger, so that we might have followed Thy revelations before we were (thus) humbled and disgraced!
 **135.** Say: Each is awaiting; so await ye! Ye will come to know who are the owners of the path of equity, and who is right.
+

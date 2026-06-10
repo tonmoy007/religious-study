@@ -17,6 +17,10 @@ related:
   - "[[059 Al-Hashr]]"
   - "[[061 As-Saff]]"
   - "[[064 At-Taghaabun]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -40,3 +44,4 @@ related:
 **9.** O ye who believe! When the call is heard for the prayer of the day of congregation, haste unto remembrance of Allah and leave your trading. That is better for you if ye did but know.
 **10.** And when the prayer is ended, then disperse in the land and seek of Allah's bounty, and remember Allah much, that ye may be successful.
 **11.** But when they spy some merchandise or pastime they break away to it and leave thee standing. Say: That which Allah hath is better than pastime and than merchandise, and Allah is the Best of providers.
+

@@ -22,6 +22,10 @@ related:
   - "[[021 Al-Anbiyaa]]"
   - "[[037 As-Saaffaat]]"
   - "[[015 Al-Hijr]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -145,3 +149,4 @@ related:
 **109.** We sent not before thee (any messengers) save men whom We inspired from among the folk of the townships - Have they not travelled in the land and seen the nature of the consequence for those who were before them? And verily the abode of the Hereafter, for those who ward off (evil), is best. Have ye then no sense? -
 **110.** Till, when the messengers despaired and thought that they were denied, then came unto them Our help, and whom We would was saved. And Our wrath cannot be warded from the guilty.
 **111.** In their history verily there is a lesson for men of understanding. It is no invented story but a confirmation of the existing (Scripture) and a detailed explanation of everything, and a guidance and a mercy for folk who believe.
+

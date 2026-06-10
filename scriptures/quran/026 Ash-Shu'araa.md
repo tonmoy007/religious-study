@@ -25,6 +25,10 @@ backstory: Revealed in Mecca (middle Meccan period). Named after "The Poets" (v2
 narrative: "A series of prophet cycles, each ending with the refrain: \"Lo! Herein is indeed a sign: yet most of them are not believers. And lo! thy Lord! He is indeed the Mighty, the Merciful.\" (1) Moses and Pharaoh (v10-68); (2) Abraham and his people (v69-104); (3) Noah (v105-122); (4) Hud and 'Ad (v123-140); (5) Salih and Thamud (v141-159); (6) Lot and his people (v160-175); (7) Shu'ayb and Midian (v176-191); (8) The Quran's revelation and the poets (v192-227)."
 subject: The pattern of prophethood, the "sign" cycles (seven prophetic stories), the contrast between prophetic truth and poetic falsehood.
 motivation: To present the recurring pattern of prophecy — warning, rejection, punishment, salvation — and to distinguish the Quran from the poetic traditions of pre-Islamic Arabia.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 26. Ash-Shu'araa — *The Poets*
@@ -260,3 +264,4 @@ motivation: To present the recurring pattern of prophecy — warning, rejection,
 **225.** Hast thou not seen how they stray in every valley,
 **226.** And how they say that which they do not?
 **227.** Save those who believe and do good works, and remember Allah much, and vindicate themselves after they have been wronged. Those who do wrong will come to know by what a (great) reverse they will be overturned!
+

@@ -21,6 +21,10 @@ related:
   - "[[084 Al-Inshiqaaq]]"
   - "[[088 Al-Ghaashiya]]"
   - "[[052 At-Tur]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -83,3 +87,4 @@ related:
 **48.** When it is said unto them: Bow down, they bow not down!
 **49.** Woe unto the repudiators on that day!
 **50.** In what statement, after this, will they believe?
+

@@ -21,6 +21,10 @@ related:
   - "[[047 Muhammad]]"
   - "[[048 Al-Fath]]"
   - "[[061 As-Saff]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -57,3 +61,4 @@ related:
 **22.** He is Allah, than Whom there is no other Allah, the Knower of the Invisible and the Visible. He is the Beneficent, Merciful.
 **23.** He is Allah, than Whom there is no other Allah, the Sovereign Lord, the Holy One, Peace, the Keeper of Faith, the Guardian, the Majestic, the Compeller, the Superb. Glorified be Allah from all that they ascribe as partner (unto Him).
 **24.** He is Allah, the Creator, the Shaper out of naught, the Fashioner. His are the most beautiful names. All that is in the heavens and the earth glorifieth Him, and He is the Mighty, the Wise.
+

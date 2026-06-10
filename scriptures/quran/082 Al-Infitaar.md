@@ -21,6 +21,10 @@ related:
   - "[[078 An-Naba]]"
   - "[[088 Al-Ghaashiya]]"
   - "[[099 Az-Zalzala]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -52,3 +56,4 @@ related:
 **17.** Ah, what will convey unto thee what the Day of Judgment is!
 **18.** Again, what will convey unto thee what the Day of Judgment is!
 **19.** A day on which no soul hath power at all for any (other) soul. The (absolute) command on that day is Allah's.
+

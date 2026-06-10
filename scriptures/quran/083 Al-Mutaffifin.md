@@ -21,6 +21,10 @@ related:
   - "[[057 Al-Hadid]]"
   - "[[059 Al-Hashr]]"
   - "[[069 Al-Haaqqa]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -69,3 +73,4 @@ related:
 **34.** This day it is those who believe who have the laugh of disbelievers,
 **35.** On high couches, gazing.
 **36.** Are not the disbelievers paid for what they used to do?
+

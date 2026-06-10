@@ -24,6 +24,10 @@ backstory: The longest surah in the Quran, revealed over several years in Medina
 narrative: "Linear structure: (1) The three groups — believers, disbelievers, hypocrites (v1-20); (2) God's power and signs in creation (v21-29); (3) The story of Adam and Iblis (v30-39); (4) Address to the Children of Israel — their covenant, rebellion, and lessons (v40-123); (5) Abraham and the Kaaba (v124-141); (6) Change of qibla from Jerusalem to Mecca (v142-152); (7) Legal rulings — fasting, pilgrimage, marriage, divorce, warfare, charity, loans (v153-283); (8) The creed and the verse of light (v284-286)."
 subject: Islamic law (the largest collection of legal verses), faith vs. hypocrisy, stories of earlier prophets (Adam, Abraham, Moses, Jesus), the covenant with Israel, the Kaaba, usury, marriage, divorce, jihad, charity.
 motivation: "To build the foundations of the Islamic community: legal, theological, and social. To differentiate Muslims from Jews and Christians while affirming the shared prophetic heritage."
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 2. Al-Baqara — *The Cow*
@@ -318,3 +322,4 @@ motivation: "To build the foundations of the Islamic community: legal, theologic
 **284.** Unto Allah (belongeth) whatsoever is in the heavens and whatsoever is in the earth; and whether ye make known what is in your minds or hide it, Allah will bring you to account for it. He will forgive whom He will and He will punish whom He will. Allah is Able to do all things.
 **285.** The messenger believeth in that which hath been revealed unto him from his Lord and (so do) believers. Each one believeth in Allah and His angels and His scriptures and His messengers - We make no distinction between any of His messengers - and they say: We hear, and we obey. (Grant us) Thy forgiveness, our Lord. Unto Thee is the journeying.
 **286.** Allah tasketh not a soul beyond its scope. For it (is only) that which it hath earned, and against it (only) that which it hath deserved. Our Lord! Condemn us not if we forget, or miss the mark! Our Lord! Lay not on us such a burden as thou didst lay on those before us! Our Lord! Impose not on us that which we have not the strength to bear! Pardon us, absolve us and have mercy on us, Thou, our Protector, and give us victory over the disbelieving folk.
+

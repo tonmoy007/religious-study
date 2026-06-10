@@ -17,6 +17,10 @@ backstory: Revealed in Mecca, named after "The Pen" (v1) — "Nun. By the pen an
 narrative: (1) The oath by the Pen — the Prophet is not mad (v1-16); (2) The parable of the owners of the garden who hoarded and were punished (v17-33); (3) The contrast between the righteous and the guilty (v34-47); (4) The Prophet's patience — be not like Jonah (him of the fish) who cried from the darkness (v48-50); (5) The Quran as a reminder to all worlds (v51-52).
 subject: The Pen, the accusation of madness against the Prophet, the parable of the garden owners (the hoarders), Jonah and the fish, the Quran as a universal reminder.
 motivation: To defend the Prophet against the charge of madness by swearing by the Pen (the instrument of knowledge and writing), and to teach patience through the story of Jonah.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 68. Al-Qalam — *The Pen*
@@ -77,3 +81,4 @@ motivation: To defend the Prophet against the charge of madness by swearing by t
 **50.** But his Lord chose him and placed him among the righteous.
 **51.** And lo! those who disbelieve would fain disconcert thee with their eyes when they hear the Reminder, and they say: Lo! he is indeed mad;
 **52.** When it is naught else than a Reminder to creation.
+

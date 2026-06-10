@@ -21,6 +21,10 @@ related:
   - "[[042 Ash-Shura]]"
   - "[[044 Ad-Dukhaan]]"
   - "[[056 Al-Waaqia]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -38,3 +42,4 @@ related:
 **3.** The Night of Power is better than a thousand months.
 **4.** The angels and the Spirit descend therein, by the permission of their Lord, with all decrees.
 **5.** (The night is) Peace until the rising of the dawn.
+

@@ -23,6 +23,10 @@ backstory: Revealed in Mecca. Named after "The Ant" (v18-19 — Solomon hears an
 narrative: (1) Moses and the burning bush (v7-14); (2) David and Solomon — the ant, the hoopoe, and the Queen of Sheba (v15-44); (3) Salih and Thamud (v45-53); (4) Lot and his people (v54-58); (5) The signs of God in creation (v59-65); (6) The Resurrection and the Judgment (v66-90); (7) The Prophet's mission (v91-93).
 subject: Solomon and the Queen of Sheba (Bilqis), the ant's speech, the hoopoe bird, the signs of God in creation, the fate of Thamud and Lot's people.
 motivation: To demonstrate that God communicates through "signs" in nature and history, and to celebrate Solomon's wisdom as a model of prophetic kingship.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 27. An-Naml — *The Ant*
@@ -124,3 +128,4 @@ motivation: To demonstrate that God communicates through "signs" in nature and h
 **91.** (Say): I (Muhammad) am commanded only to serve the Lord of this land which He hath hallowed, and unto Whom all things belong. And I am commanded to be of those who surrender (unto Him),
 **92.** And to recite the Qur'an. And whoso goeth right, goeth right only for (the good of) his own soul; and as for him who goeth astray - (Unto him) say: Lo! I am only a warner.
 **93.** And say: Praise be to Allah Who will show you His portents so that ye shall know them. And thy Lord is not unaware of what ye (mortals) do.
+

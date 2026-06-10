@@ -19,6 +19,10 @@ backstory: Revealed in Mecca as a whole (one of the largest Meccan surahs). A co
 narrative: "A sustained monotheistic argument: (1) God's power in creation and the foolishness of associating partners (v1-30); (2) The resurrection and the regret of the disbelievers (v31-73); (3) Abraham's argument against his father's idolatry (v74-83); (4) The chain of prophets from Abraham to Muhammad (v84-92); (5) Revelation and its rejection (v93-110); (6) The disbelievers' excuses and God's judgment (v111-165)."
 subject: Tawhid (pure monotheism), Abraham's quest for God, prophets and their mission, polytheism refuted, resurrection, divine justice.
 motivation: To call the Meccan polytheists to pure monotheism using rational arguments, stories of past prophets, and a sweeping vision of God's sovereignty over creation.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 6. Al-An'aam — *The Cattle*
@@ -192,3 +196,4 @@ motivation: To call the Meccan polytheists to pure monotheism using rational arg
 **163.** He hath no partner. This am I commanded, and I am first of those who surrender (unto Him).
 **164.** Say: Shall I seek another than Allah for Lord, when He is Lord of all things? Each soul earneth only on its own account, nor doth any laden bear another's load. Then unto your Lord is your return and He will tell you that wherein ye differed.
 **165.** He it is Who hath placed you as viceroys of the earth and hath exalted some of you in rank above others, that He may try you by (the test of) that which He hath given you. Lo! Thy Lord is swift in prosecution, and Lo! He verily is Forgiving, Merciful.
+

@@ -18,6 +18,10 @@ backstory: "Revealed in Mecca, named after \"The Smoke\" (v10-11) — a sign of 
 narrative: (1) The revelation on a blessed night (Laylat al-Qadr — Ramadan) (v1-6); (2) The disbelievers' doubt and the warning of the Smoke (v7-16); (3) Moses and Pharaoh — the plagues and the drowning (v17-33); (4) The fate of the disbelievers vs. the reward of the righteous (v34-59).
 subject: The Night of Revelation (Laylat al-Qadr), the Smoke as a portent of judgment, Moses and Pharaoh, the separation of the righteous and wicked.
 motivation: To proclaim the Quran's revelation on the "blessed night" as a mercy, and to warn the Meccans — if they reject, they will face the same fate as Pharaoh.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 44. Ad-Dukhaan — *The Smoke*
@@ -85,3 +89,4 @@ motivation: To proclaim the Quran's revelation on the "blessed night" as a mercy
 **57.** A bounty from thy Lord. That is the supreme triumph.
 **58.** And We have made (this Scripture) easy in thy language only that they may heed.
 **59.** Wait then (O Muhammad). Lo! they (too) are waiting.
+

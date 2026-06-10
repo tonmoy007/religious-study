@@ -18,6 +18,10 @@ backstory: Revealed in Mecca. Named after "Sheba" (Saba — v15-20), the ancient
 narrative: (1) God's sovereignty and the disbelievers' denial (v1-9); (2) David and Solomon — their gifts and gratitude (v10-14); (3) The people of Sheba — their gardens destroyed for ingratitude (v15-21); (4) The disbelievers' false hopes (v22-30); (5) The wealthy and the powerful on Judgment Day (v31-45); (6) The Prophet as a warner (v46-54).
 subject: The kingdom of Sheba, David and Solomon, gratitude and ingratitude, the destruction of nations, the Day of Judgment.
 motivation: To warn through the example of Sheba — a prosperous kingdom destroyed by ingratitude — and to celebrate David and Solomon as grateful kings who acknowledged God's sovereignty.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 34. Saba — *Sheba*
@@ -80,3 +84,4 @@ motivation: To warn through the example of Sheba — a prosperous kingdom destro
 **52.** And say: We (now) believe therein. But how can they reach (faith) from afar off,
 **53.** When they disbelieved in it of yore. They aim at the unseen from afar off.
 **54.** And a gulf is set between them and that which they desire, as was done for people of their kind of old. Lo! they were in hopeless doubt.
+

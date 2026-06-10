@@ -17,6 +17,10 @@ backstory: Revealed in Mecca, named after "The Constellations" (Al-Burooj — v1
 narrative: (1) Oath by the sky and the constellations (v1-3); (2) The people of the ditch — the persecutors who burned believers in a trench of fire (v4-9); (3) The torment of those who persecute believers (v10-11); (4) The power of God — the story of Pharaoh and Thamud as examples of those who rejected (v12-20); (5) The Quran is a glorious tablet preserved (v21-22).
 subject: The constellations, the people of the ditch (the martyrs of the trench), the vengeance of God on persecutors, the preserved tablet of the Quran.
 motivation: To commemorate the believers who were burned alive in a ditch of fire for their faith, and to warn the Meccan persecutors that God sees and will repay.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 85. Al-Burooj — *The Constellations*
@@ -47,3 +51,4 @@ motivation: To commemorate the believers who were burned alive in a ditch of fir
 **20.** And Allah, all unseen, surroundeth them.
 **21.** Nay, but it is a glorious Qur'an.
 **22.** On a guarded tablet.
+

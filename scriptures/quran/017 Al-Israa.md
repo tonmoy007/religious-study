@@ -20,6 +20,10 @@ backstory: Revealed in Mecca, named after the Night Journey (Al-Israa — v1), t
 narrative: (1) The Night Journey to Jerusalem (v1); (2) The Children of Israel — their corruption and punishment (v2-8); (3) The Quran as guidance (v9-22); (4) The Ten Commandments-like ethical teachings — honour parents, be generous, avoid adultery, do not kill (v23-39); (5) The disbelievers' arguments refuted (v40-72); (6) The Prophet's trials (v73-84); (7) The Spirit (Ruh) and the Day of Judgment (v85-111).
 subject: The Night Journey (Isra'), the Children of Israel, the moral commandments, the nature of revelation, the Day of Judgment.
 motivation: To establish the sanctity of the Prophet's night journey as a sign, to outline the core ethical teachings of Islam, and to console the Prophet amid Meccan rejection.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 17. Al-Israa — *The Night Journey*
@@ -139,3 +143,4 @@ motivation: To establish the sanctity of the Prophet's night journey as a sign, 
 **109.** They fall down on their faces, weeping, and it increaseth humility in them.
 **110.** Say (unto mankind): Cry unto Allah, or cry unto the Beneficent, unto whichsoever ye cry (it is the same). His are the most beautiful names. And thou (Muhammad), be not loud-voiced in thy worship nor yet silent therein, but follow a way between.
 **111.** And say: Praise be to Allah, Who hath not taken unto Himself a son, and Who hath no partner in the Sovereignty, nor hath He any protecting friend through dependence. And magnify Him with all magnificence.
+

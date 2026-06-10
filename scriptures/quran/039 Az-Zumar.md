@@ -21,6 +21,10 @@ related:
   - "[[041 Fussilat]]"
   - "[[109 Al-Kaafiroon]]"
   - "[[112 Al-Ikhlaas]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -108,3 +112,4 @@ related:
 **73.** And those who keep their duty to their Lord are driven unto the Garden in troops till, when they reach it, and the gates thereof are opened, and the warders thereof say unto them: Peace be unto you! Ye are good, so enter ye (the Garden of delight), to dwell therein;
 **74.** They say: Praise be to Allah, Who hath fulfilled His promise unto us and hath made us inherit the land, sojourning in the Garden where we will! So bounteous is the wage of workers.
 **75.** And thou (O Muhammad) seest the angels thronging round the Throne, hymning the praises of their Lord. And they are judged aright. And it is said: Praise be to Allah, the Lord of the Worlds!
+

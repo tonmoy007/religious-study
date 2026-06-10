@@ -19,6 +19,10 @@ backstory: Revealed in Mecca, named after "Those who drag forth" (An-Naazi'aat �
 narrative: (1) Oaths by the angels who wrench forth souls — the souls of the disbelievers dragged and the souls of the believers drawn gently (v1-14); (2) The story of Moses — the burning bush, confronting Pharaoh, the signs (v15-26); (3) The creation of the heavens — harder than the creation of humanity (v27-33); (4) The Day of Judgment — when the arrogant see Hell and the God-fearing enter Paradise (v34-46).
 subject: The angels who extract souls at death, the story of Moses and Pharaoh (signs, the sea), the creation of the heavens and earth, the impending judgment.
 motivation: To contrast the two kinds of death — the violent wrenching of the disbeliever's soul versus the gentle drawing of the believer's — and to point to Moses' confrontation with Pharaoh as a warning to tyrants.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 79. An-Naazi'aat — *Those who drag forth*
@@ -73,3 +77,4 @@ motivation: To contrast the two kinds of death — the violent wrenching of the 
 **44.** Unto thy Lord belongeth (knowledge of) the term thereof.
 **45.** Thou art but a warner unto him who feareth it.
 **46.** On the day when they behold it, it will be as if they had but tarried for an evening or the morn thereof.
+

@@ -17,6 +17,10 @@ backstory: Revealed in Mecca, named after "The Enshrouded One" (v1) — God addr
 narrative: (1) The command to stand the night in prayer except a little — the discipline of night vigil (v1-9); (2) Patience in the face of denial (v10-14); (3) The example of Pharaoh and Moses — as Pharaoh rejected, so do the Meccans (v15-19); (4) The abrogation of the night prayer obligation — now voluntarily (v20-20); (5) The final exhortation to pray, give charity, and seek forgiveness (v20-20).
 subject: The night prayer (tahajjud), the enshrouded Prophet, the example of Moses and Pharaoh, the lightening of the prayer obligation.
 motivation: To establish the night prayer as a discipline for the Prophet and the early believers, and to later abrogate the obligation when the community grew.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 73. Al-Muzzammil — *The Enshrouded One*
@@ -45,3 +49,4 @@ motivation: To establish the night prayer as a discipline for the Prophet and th
 **18.** The very heaven being then rent asunder. His promise is to be fulfilled.
 **19.** Lo! This is a Reminder. Let him who will, then, choose a way unto his Lord.
 **20.** Lo! thy Lord knoweth how thou keepest vigil sometimes nearly two-thirds of the night, or (sometimes) half or a third thereof, as do a party of those with thee. Allah measureth the night and the day. He knoweth that ye count it not, and turneth unto you in mercy. Recite, then, of the Qur'an that which is easy for you. He knoweth that there are sick folk among you, while others travel in the land in search of Allah's bounty, and others (still) are fighting for the cause of Allah. So recite of it that which is easy (for you), and establish worship and pay the poor-due, and (so) lend unto Allah a goodly loan. Whatsoever good ye send before you for your souls, ye will find it with Allah, better and greater in the recompense. And seek forgiveness of Allah. Lo! Allah is Forgiving, Merciful.
+

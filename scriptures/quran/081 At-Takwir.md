@@ -21,6 +21,10 @@ related:
   - "[[078 An-Naba]]"
   - "[[088 Al-Ghaashiya]]"
   - "[[099 Az-Zalzala]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -62,3 +66,4 @@ related:
 **27.** This is naught else than a reminder unto creation,
 **28.** Unto whomsoever of you willeth to walk straight.
 **29.** And ye will not, unless (it be) that Allah willeth, the Lord of Creation.
+

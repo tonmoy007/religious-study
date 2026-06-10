@@ -20,6 +20,10 @@ backstory: Revealed in Medina. Named after "The Iron" (v25) — "And We sent dow
 narrative: (1) All creation glorifies God (v1-6); (2) The call to believe and spend in charity (v7-11); (3) The Day when the light of the believers outshines the hypocrites (v12-15); (4) The softening of hearts and the humility of believers (v16-20); (5) The worldly life is but a game — the Hereafter is the real life (v21-24); (6) The messengers and the iron — God sent down the Book, the Balance, and Iron (v25-29).
 subject: Iron as a divine gift, the glorification of God by all creation, the contrast between this world and the next, the sending of messengers with the Book and the Balance.
 motivation: To encourage spending in charity by reminding that this world is fleeting, and to present iron as God's provision for human strength and civilization.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 57. Al-Hadid — *The Iron*
@@ -57,3 +61,4 @@ motivation: To encourage spending in charity by reminding that this world is fle
 **27.** Then We caused Our messengers to follow in their footsteps; and We caused Jesus, son of Mary, to follow, and gave him the Gospel, and placed compassion and mercy in the hearts of those who followed him. But monasticism they invented - We ordained it not for them - only seeking Allah's pleasure, and they observed it not with right observance. So We give those of them who believe their reward, but many of them are evil-livers.
 **28.** O ye who believe! Be mindful of your duty to Allah and put faith in His messenger. He will give you twofold of His mercy and will appoint for you a light wherein ye shall walk, and will forgive you. Allah is Forgiving, Merciful;
 **29.** That the People of the Scripture may know that they control naught of the bounty of Allah, but that the bounty is in Allah's hand to give to whom He will. And Allah is of Infinite Bounty.
+

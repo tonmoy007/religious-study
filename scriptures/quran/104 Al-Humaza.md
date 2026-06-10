@@ -21,6 +21,10 @@ related:
   - "[[059 Al-Hashr]]"
   - "[[076 Al-Insaan]]"
   - "[[083 Al-Mutaffifin]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -42,3 +46,4 @@ related:
 **7.** Which leapeth up over the hearts (of men).
 **8.** Lo! it is closed in on them
 **9.** In outstretched columns.
+

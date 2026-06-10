@@ -22,6 +22,10 @@ related:
   - "[[085 Al-Burooj]]"
   - "[[037 As-Saaffaat]]"
   - "[[007 Al-A'raaf]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 18. Al-Kahf — *The Cave*
@@ -140,3 +144,4 @@ related:
 **108.** Wherein they will abide, with no desire to be removed from thence.
 **109.** Say: Though the sea became ink for the Words of my Lord, verily the sea would be used up before the words of my Lord were exhausted, even though We brought the like thereof to help.
 **110.** Say: I am only a mortal like you. My Lord inspireth in me that your Allah is only One Allah. And whoever hopeth for the meeting with his Lord, let him do righteous work, and make none sharer of the worship due unto his Lord.
+

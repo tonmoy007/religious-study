@@ -15,6 +15,10 @@ backstory: Revealed in Mecca, named after "The Most High" (Al-A'laa — v1). A s
 narrative: (1) Glorify the name of your Lord, the Most High — who creates and proportions, who brings forth the pasture and makes it black stubble (v1-5); (2) The Prophet will be made to recite and will not forget (v6-8); (3) The reminder — profitable for those who fear (v9-15); (4) The Hereafter is better than this world (v16-19).
 subject: The glorification of the Most High, the creation and proportion of all things, the promise that the Prophet will not forget the revelation, the preference for the Hereafter.
 motivation: To command the glorification of God (the Most High) and to assure the Prophet that God will preserve the revelation in his heart — "We shall make you recite, so you shall not forget."
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 87. Al-A'laa — *The Most High*
@@ -42,3 +46,4 @@ motivation: To command the glorification of God (the Most High) and to assure th
 **17.** Although the Hereafter is better and more lasting.
 **18.** Lo! This is in the former scrolls.
 **19.** The Books of Abraham and Moses.
+

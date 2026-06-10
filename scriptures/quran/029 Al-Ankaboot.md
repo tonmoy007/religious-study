@@ -21,6 +21,10 @@ backstory: Revealed in Mecca shortly before the Hijrah (emigration to Medina). N
 narrative: (1) Faith is tested — the believer must be tested (v1-13); (2) Noah's story and his people's rejection (v14-15); (3) Abraham — his argument against idolatry, his rescue from the fire (v16-27); (4) Lot and his people (v28-35); (5) Shu'ayb and Midian (v36-37); (6) 'Ad, Thamud, Qarun, Pharaoh (v38-44); (7) Arguments for monotheism from nature (v45-55); (8) The believers urged to emigrate (v56-69).
 subject: Trial and testing of faith, the fragility of false gods (the spider's web), Abraham's escape from the fire, the call to emigrate for one's faith.
 motivation: To prepare the Muslims for the coming Hijrah (emigration to Medina) by reminding them that all believers are tested, and that Abraham himself was willing to leave his home for God.
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 ---
 
 # 29. Al-Ankaboot — *The Spider*
@@ -98,3 +102,4 @@ motivation: To prepare the Muslims for the coming Hijrah (emigration to Medina) 
 **67.** Have they not seen that We have appointed a sanctuary immune (from violence), while mankind are ravaged all around them? Do they then believe in falsehood and disbelieve in the bounty of Allah?
 **68.** Who doeth greater wrong than he who inventeth a lie concerning Allah, or denieth the truth when it cometh unto him? Is not there a home in hell for disbelievers?
 **69.** As for those who strive in Us, We surely guide them to Our paths, and lo! Allah is with the good.
+

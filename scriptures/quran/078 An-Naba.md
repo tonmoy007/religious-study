@@ -21,6 +21,10 @@ related:
   - "[[079 An-Naazi'aat]]"
   - "[[081 At-Takwir]]"
   - "[[082 Al-Infitaar]]"
+tafsir:
+  - "[[Quranic Tafsir - A Surah-by-Surah Companion]]"
+asbab:
+  - "[[Asbab al-Nuzul]]"
 
 
 ---
@@ -73,3 +77,4 @@ related:
 **38.** On the day when the angels and the Spirit stand arrayed, they speak not, saving him whom the Beneficent alloweth and who speaketh right.
 **39.** That is the True Day. So whoso will should seek recourse unto his Lord.
 **40.** Lo! We warn you of a doom at hand, a day whereon a man will look on that which his own hands have sent before, and the disbeliever will cry: "Would that I were dust!"
+
