@@ -348,3 +348,13 @@ up: "[[Mishnah Index]]"
 **15.** The Gemara asks: And from where is it known that the mishna here is in accordance with the opinion of Rabbi Tarfon? Perhaps the mishna is in accordance with the opinion of Rabbi Akiva, who holds the robber must pay each of the five possible victims, and there is no contradiction at all. The Gemara answers: It is known that the mishna here is in accordance with the opinion of Rabbi Tarfon, as it is taught in a baraita concerning the halakha taught in that mishna, in tractate Yevamot: Rabbi Tarfon concedes that in a case where a robber says to two people: I robbed one of you of one hundred dinars, but I do not know which of you it was, he gives one hundred dinars to this person and one hundred dinars to that person, as he has already admitted his obligation on his own. There is an apparent contradiction between the two statements of Rabbi Tarfon.
 **16.** The Gemara answers: There, in the mishna where one robbed one of five people of money, it is referring to a case where the claimants demand payment from him. He is required to pay them only one hundred dinars, as the burden of proof rests upon the claimant. By contrast, here, i.e., in this mishna and the statement of Rabbi Tarfon in the baraita, it is referring to a case where the robber comes to fulfill his obligation to Heaven. Only by returning the money to the person he robbed can he atone for his transgression. Therefore, he goes beyond the halakhic requirement and pays both claimants. The Gemara notes: The language of this mishna is also precise, as the tanna teaches: Because he admitted his obligation at his own initiative. The Gemara affirms: Learn from the wording of the mishna that this is the explanation of the mishna.
 **17.** With regard to returning stolen money, the Master said: There, it is referring to a case where the claimants demand payment from him. The Gemara asks: And the other person, the thief, what does he claim in response? Rav Yehuda says that Rav says: The other person is silent, as he does not know to whom he owes the money. Rav Mattana says that Rav says: The other person
+
+---
+
+## Related Study Material
+
+- [[Eliezer ben Hyrcanus Saved from Heresy]] — the Oven of Akhnai (Bava Metzia 59a–b); "It is not in heaven"
+- [[Jewish Figures MOC]] — the sages of civil law
+- [[Jewish Stories MOC]]
+- [[Mishnah Thematic Groups]] — Civil Law, Torts & Social Justice
+- [[Oral Torah (Torah She-be'al Peh)]] — the foundation of rabbinic authority
