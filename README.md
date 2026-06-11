@@ -24,7 +24,7 @@ Complete, plain-text public-domain translations of major world scriptures:
 | **Daoism** | Tao Te Ching; Zhuangzi |
 | **Confucianism** | The Analects |
 | **Latter Day Saints** | Book of Mormon |
-| **Ancient Religions** | Egyptian Book of the Dead; Mesopotamian texts (Enuma Elish, Gilgamesh, etc.); Prose Edda (Norse) |
+| **Ancient Religions** | Egyptian Book of the Dead; Mesopotamian texts (Enuma Elish, Atrahasis, Enki and Ninmah, Enki and the World Order, Inanna's Descent, Epic of Gilgamesh [12 tablets], Epic of Gilgamesh — Anunnaki Passages); Prose Edda (Norse) |
 
 ### 🧠 Analytical Study Notes
 - **Comparative Religion** — side-by-side study of beliefs, practices, and worldviews across Abrahamic, Dharmic, East Asian, and Indigenous traditions
@@ -50,6 +50,7 @@ Interlinked narrative and biographical notes:
 - **Buddhist** — 16+ story notes, 16+ figures
 - **Jain** — 12 story notes, 12+ figures
 - **Sikh** — 12 story notes, 12+ figures
+- **Mesopotamian** — 8 story notes, 12+ figures (pantheon deities, epic heroes)
 
 ---
 
@@ -62,11 +63,11 @@ Interlinked narrative and biographical notes:
 │   ├── comparative/          # Comparative religion notes
 │   ├── concepts/             # Cross-tradition concept notes
 │   ├── connections/          # Cross-scripture connections
-│   ├── figures/              # Figure MOCs (Biblical, Islamic, Hindu, Buddhist, Jain, Sikh)
+│   ├── figures/              # Figure MOCs (Biblical, Islamic, Hindu, Buddhist, Jain, Sikh, Mesopotamian)
 │   ├── history/              # Historical surveys
 │   ├── islamic-concepts/     # Islamic theological concepts
 │   ├── philosophy-theology/  # Philosophy & theology notes
-│   ├── stories/              # Story MOCs (Biblical, Islamic, Hindu, Buddhist, Jain, Sikh)
+│   ├── stories/              # Story MOCs (Biblical, Islamic, Hindu, Buddhist, Jain, Sikh, Mesopotamian)
 │   └── texts/                # Text-specific study notes
 ├── scriptures/               # Full scripture texts
 │   ├── Scriptures Library.md # 📚 Scripture index
@@ -127,6 +128,7 @@ All scripture texts are **public domain** or openly licensed, sourced from Proje
 | Tao Te Ching / Zhuangzi / Analects | James Legge | Public domain |
 | Book of Mormon | 1830 text | Public domain |
 | Egyptian Book of the Dead | E. A. Wallis Budge | Public domain |
+| Epic of Gilgamesh | R. Campbell Thompson (1928) | Public domain |
 | Prose Edda | Snorri Sturluson | Public domain |
 
 See **[[scriptures/Scriptures Library]]** for detailed sourcing notes.
