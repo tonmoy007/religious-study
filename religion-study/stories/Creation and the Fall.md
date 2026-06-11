@@ -13,6 +13,8 @@ up: "[[Biblical Stories MOC]]"
 see-also:
   - "[[Adam - A Figure Traced]]"
   - "[[Eve and Hawwa - A Figure Traced]]"
+  - "[[The Enuma Elish — Babylonian Creation]]"
+  - "[[Atrahasis — The Creation of Humans and the Flood]]"
   - "[[Cain and Abel]]"
   - "[[Cross-Scripture Connections MOC]]"
 ---

@@ -13,6 +13,8 @@ up: "[[Biblical Stories MOC]]"
 see-also:
   - "[[Noah and the Flood]]"
   - "[[Creation and the Fall]]"
+  - "[[The Enuma Elish — Babylonian Creation]]"
+  - "[[Religion Study MOC]]"
 ---
 
 # The Tower of Babel
@@ -55,4 +57,5 @@ There is no direct Qur'anic parallel to Babel. However:
 
 - [[Noah and the Flood]] — the previous major story
 - [[Creation and the Fall]] — the primeval cycle
+- [[The Enuma Elish — Babylonian Creation]] — Mesopotamian ziggurat-building and cosmic foundation context
 - [[Biblical Stories MOC]]

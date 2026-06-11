@@ -52,11 +52,14 @@ just kin but *believers*, and one of Noah's own sons is **left to drown**
 (Hud 11:42–43), a detail absent from Genesis.
 
 ## The older layer: Gilgamesh
-The Mesopotamian *Epic of Gilgamesh* (Tablet XI) and the earlier Atra-ḥasīs
+The Mesopotamian [[Epic of Gilgamesh — Overview|Epic of Gilgamesh]] (Tablet XI)
+and the earlier [[Atrahasis — The Creation of Humans and the Flood|Atra-ḥasīs]]
 have **Utnapishtim** build a boat, survive a divine flood, and release birds to
 find land — predating the Genesis text. This points to a **shared Near Eastern
 source or diffusion** beneath the biblical account, not literary borrowing in
 the other direction.
+
+> **See :** [[Gilgamesh's Quest for Immortality]] (§ The Flood Story) · [[Atrahasis — The Creation of Humans and the Flood]] · [[Epic of Gilgamesh — Overview]]
 
 ## What kind of connection?
 - **Bible ↔ Qur'an:** *genealogical* — the Qur'an consciously retells the prophet Nūḥ.
