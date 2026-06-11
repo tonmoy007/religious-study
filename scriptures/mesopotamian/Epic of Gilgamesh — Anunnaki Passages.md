@@ -9,7 +9,7 @@ tags:
   - anunnaki
   - flood
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-12
 translation: Andrew George (Penguin, 2003) / public domain selections
 language: Akkadian
 period: ~1200 BCE (standard version)
@@ -62,4 +62,4 @@ In Tablet VIII (poorly preserved), Gilgamesh is given the epithet **"judge of th
 - *Andrew George, The Epic of Gilgamesh (Penguin Classics, 2003)*
 - *Public domain: The Epic of Gilgamish, trans. R. Campbell Thompson (1928)*
 
-*This is a supplementary note. The full Epic of Gilgamesh is not yet in the vault. See [[Mesopotamian Scriptures]] for the main index.*
+*This is a supplementary note focusing on Anunnaki references. The [[Epic of Gilgamesh|full Epic of Gilgamesh]] is now in the vault (trans. R. Campbell Thompson, 1928). See [[Mesopotamian Scriptures]] for the main index.*

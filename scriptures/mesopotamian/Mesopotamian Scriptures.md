@@ -9,7 +9,7 @@ tags:
   - anunnaki
   - moc
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-12
 translation: various (public domain / open)
 ---
 
@@ -31,14 +31,15 @@ Full ancient Mesopotamian religious and mythological texts. These are the primar
 | 3 | **[[Enki and Ninmah]]** | ~1800 BCE | Sumerian | Anuna (Anunnaki) gods born; creation of humans from clay |
 | 4 | **[[Enki and the World Order]]** | ~1800 BCE | Sumerian | Anunnaki decree the fates of mankind; do homage to Enki |
 | 5 | **[[Inanna's Descent to the Netherworld]]** | ~1800 BCE | Sumerian | 7 Anunnaki as underworld judges; Inanna's trial and death |
+| 6 | **[[Epic of Gilgamesh]]** | ~2100–1200 BCE | Akkadian/Sumerian | Anunnaki brandish torches at the Flood (TXI); weep with Ishtar over humanity (TXI); settle destiny of mortals (TX); Gilgamesh called "Judge of the Anunnaki" (TVIII) |
 
 ---
 
-## 🧩 Related Texts
+## 🧩 Related Texts & Supplementary Notes
 
 | Text | Relevance |
 |------|-----------|
-| **[[Epic of Gilgamesh]]** (Tablet XI) | Flood narrative derived from Atrahasis; Anunnaki as judges; Gilgamesh called "judge of the Anunnaki" |
+| **[[Epic of Gilgamesh — Anunnaki Passages]]** | Supplementary note collecting all Anunnaki-specific passages from the Epic (useful for quick reference) |
 | **[[Poem of Erra]]** | Anunnaki as brothers of Nergal, hostile to humanity; distinct from Igigi |
 | **[[Sumerian King List]]** | Traces kingship before and after the Flood; Atrahasis appears as king of Shuruppak |
 
